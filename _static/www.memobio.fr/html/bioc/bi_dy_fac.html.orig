@@ -1,0 +1,355 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/bi_dysl.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Facteurs de risque de maladie cardio-vasculaire et cible du cholestérol LDL</title>
+<!-- InstanceEndEditable -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META NAME='description' LANG='fr' CONTENT="Memobio est un site d'aide au diagnostic biologique, &agrave; la r&eacute;alisation et &agrave; l'interpr&eacute;tation des analyses de biologie m&eacute;dicale. Il pr&eacute;sente une multitude de tableaux, de fiches, de diagrammes, de photos et de vid&eacute;o. Ce site a fait l'objet d'un th&egrave;se de fin d'internat en biologie">
+<META NAME='keywords' LANG='fr' CONTENT="biologie, medicale, biochimie, hematologie, parasitologie, bacteriologie, virologie, mycologie, immunologie, cours, internat, fiches, photos, fiche, photo, tableau, tableaux, video">
+<META NAME='author' CONTENT="Nedelec Adrien - Biologiste">
+<META NAME='Identifier-URL' CONTENT="http://memobio.fr" />
+<link href="../../css/title.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+>
+<META NAME='revisit-after' CONTENT="10" />
+<META NAME="robots" CONTENT="Index,Follow"/>
+
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+<!--
+.Style3 {font-size: 18px}
+-->
+</style>
+<style type="text/css">
+<!--
+.Style5 {
+	color: #996600;
+	font-weight: bold;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.Style6 {
+	color: #009BA4;
+	font-weight: bold;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.Style7 {
+	color: #008000;
+	font-weight: bold;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.Style8 {
+	color: #A29B00
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.Style9 {
+	color: #008000
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.Style11 {color: #800080; font-weight: bold; }
+-->
+</style>
+<!-- InstanceEndEditable -->
+<link href="../../css/bioc.css" rel="stylesheet" type="text/css" />
+
+<script src="../../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+
+</head>
+<body bgcolor="#FFFFFF" onload="MM_preloadImages('../../images/struc/tnouso.gif','../../images/struc/tmailo.gif','../../images/struc/tplano.gif','../../images/struc/tacco.gif','../../images/struc/tcopo.gif','../../images/struc/tlego.gif','../../images/struc/tenso.gif','../../images/struc/tlieno.gif','../../images/struc/tbaso.gif','../../images/struc/tnewo.gif','../../images/struc/tsjbmo.gif','../../images/struc/tdonso.gif')">
+<div id="menu">
+  <ul id="MenuBar1" class="MenuBarHorizontal">
+    <li><a class="MenuBarItemSubmenu" href="bi_acc.html">Biochimie</a>
+<ul>
+          <li class="Bioch"><a href="bi_diab.html">Diab&egrave;te sucr&eacute;</a></li>
+        <li class="Bioch"><a href="bi_dysl.html">Dyslipid&eacute;mie</a></li>
+          <li class="Bioch"><a href="bi_rein.html">Pathologies r&eacute;nales</a></li>
+          <li class="Bioch"><a href="bi_foie.html">Pathologies h&eacute;patiques</a></li>
+          <li class="Bioch"><a href="bi_panc.html">Pancr&eacute;atite aigu&euml;</a></li>
+          <li class="Bioch"><a href="bi_coeu.html">Marqueurs cardiaques</a></li>
+          <li class="Bioch"><a href="bi_hydr.html">Troubles hydro-&eacute;lectrolytiques</a></li>
+          <li class="Bioch"><a href="bi_acba.html">Troubles acido-basiques</a></li>
+          <li class="Bioch"><a href="bi_phca.html">M&eacute;tabolisme phospho-calcique</a></li>
+          <li class="Bioch"><a href="bi_thyr.html">Pathologies thyro&iuml;diennes</a></li>
+          <li class="Bioch"><a href="bi_surr.html">Pathologies surr&eacute;naliennes</a></li>
+          <li class="Bioch"><a href="bi_tumo.html">Marqueurs tumoraux</a></li>
+          <li class="Bioch"><a href="bi_uric.html">Hyperuric&eacute;mies</a></li>
+      </ul>
+    </li>
+    <li><a href="../hema/he_acc.html" class="MenuBarItemSubmenu">H&eacute;matologie</a>
+      <ul>
+        <li class="Hemato"><a href="../hema/he_anem.html">An&eacute;mies</a></li>
+        <li class="Hemato"><a href="../hema/he_thro.html">Thrombop&eacute;nies</a></li>
+        <li class="Hemato"><a href="../hema/he_mono.html">Syndromes mononucl&eacute;osiques</a></li>
+        <li class="Hemato"><a href="../hema/he_slpc.html">Syndromes lymphoprolif&eacute;ratifs </a></li>
+        <li class="Hemato"><a href="../hema/he_smpc.html">Syndromes my&eacute;loprolif&eacute;ratifs</a></li>
+        <li class="Hemato"><a href="../hema/he_aigu.html">Leuc&eacute;mies aigu&euml;s</a></li>
+        <li class="Hemato"><a href="../hema/he_smd.html">Syndromes my&eacute;lodysplasiques</a></li>
+        <li class="Hemato"><a href="../hema/he_stas.html">H&eacute;mostase</a></li>
+        <li class="Hemato"><a href="../hema/he_immu.html">Immuno-h&eacute;matologie</a></li>
+        <li class="Hemato"><a href="../hema/he_phot.html">Photos</a></li>
+      </ul>
+    </li>
+    <li><a href="../immu/im_acc.html" class="MenuBarItemSubmenu">Immunologie</a>
+      <ul>
+        <li><a href="../immu/im_alle.html">Allergologie</a></li>
+        <li><a href="../immu/im_auto.html">Auto-immunit&eacute;</a></li>
+        <li><a href="../immu/im_elec.html">Electrophor&egrave;se</a></li>
+        <li><a href="../immu/im_infl.html">Inflammation</a></li>
+      </ul>
+    </li>
+    <li><a href="../bact/ba_acc.html" class="MenuBarItemSubmenu">Bact&eacute;riologie</a>
+      <ul>
+        <li class="Bacterio"><a href="../bact/ba_bact.html">Par bact&eacute;rie</a></li>
+        <li class="Bacterio"><a href="../bact/ba_prel.html">Par pr&eacute;l&egrave;vement</a></li>
+        <li class="Bacterio"><a href="../bact/ba_atb.html">Antibiogramme</a></li>
+        <li class="Bacterio"><a href="../bact/ba_path.html">Pathologies</a></li>
+        <li class="Bacterio"><a href="../bact/ba_tech.html">Techniques de laboratoire</a></li>
+        <li class="Bacterio"><a href="../bact/ba_traitement.html">Prise en charge thérapeutique</a></li>
+      </ul>
+    </li>
+    <li class="Styleviro"><a href="../viro/vi_acc.html" class="MenuBarItemSubmenu">Virologie</a>
+      <ul>
+        <li class="Viro"><a href="../viro/vi_vih.html">VIH</a> </li>
+        <li class="Viro"><a href="../viro/vi_vhc.html">VHC</a></li>
+        <li class="Viro"><a href="../viro/vi_vhb.html">VHB</a></li>
+        <li class="Viro"><a href="../viro/vi_vha.html">VHA</a></li>
+        <li class="Viro"><a href="../viro/vi_ebv.html">EBV</a></li>
+        <li class="Viro"><a href="../viro/vi_cmv.html">CMV</a></li>
+        <li class="Viro"><a href="../viro/vi_hsv.html">HSV</a></li>
+      </ul>
+    </li>
+  <li class="Stylepara"><a class="MenuBarItemSubmenu" href="../para/pa_acc.html">Parasitologie - Mycologie</a>
+    <ul>
+          <li class="Parasito"><a href="../para/pa_tepr.html">Techniques de pr&eacute;l&egrave;vement</a></li>  
+          <li class="Parasito"><a href="../para/pa_micro.html">Diagnostic direct (parasito)</a> </li>
+          <li class="Parasito"><a href="../para/my_micro.html">Diagnostic direct (myco)</a></li>
+        <li class="Parasito"><a href="../para/pa_sero.html">S&eacute;rologies</a></li>
+          <li class="Parasito"><a href="../para/pa_tech.html">Techniques de laboratoire</a></li>
+          <li class="Parasito"><a href="../para/pa_prel.html">Etiologies par pr&eacute;l&egrave;vement</a></li>
+          <li class="Parasito"><a href="../para/pa_clin.html">Etiologies par atteinte clinique</a></li>
+          <li class="Parasito"><a href="../para/pa_rgeo.html">R&eacute;partition g&eacute;ographique</a></li>
+          <li class="Parasito"><a href="../para/pa_palu.html">Paludisme</a></li>
+          <li class="Parasito"><a href="../para/pa_toxo.html">Toxoplasmose</a></li>
+          <li class="Parasito"><a href="../para/pa_cycle.html">Cycles parasitaires</a></li>
+        <li class="Parasito"><a href="../para/pa_fich.html">Fiches par agent pathog&egrave;ne</a></li>
+  </ul>
+    </li>
+  </ul>
+</div>
+<div id="titre">
+  <div id="contenu">
+    <div class="construc" id="construc">
+      <div align="left">
+        <table width="264" height="53" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="68"><div align="center"><a href="../../enseig.html"><img src="../../images/struc/tens.gif" alt="Enseignement" name="Image7" width="35" height="35" id="Image7" onmouseover="MM_swapImage('Image7','','../../images/struc/tenso.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
+                <p><a href="../../enseig.html" class="Style99">Enseignement</a></p>
+            </div></td>
+            <td width="49"><div align="center"><a href="../../liens.html"><img src="../../images/struc/tlien.gif" alt="liens" name="Image6" width="35" height="35" id="Image6" onmouseover="MM_swapImage('Image6','','../../images/struc/tlieno.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
+            </div>
+            <p align="center"><a href="../../liens.html" class="Style99" onmouseover="MM_swapImage('Image6','','../../images/struc/tlieno.gif',1)" onmouseout="MM_swapImgRestore()">Liens</a>.</p></td>
+            <td width="87" onmouseover="MM_swapImage('image8','','../../images/struc/tbaso.gif',1)" onmouseout="MM_swapImgRestore()"><div align="center"><a href="../../base.html"><img src="../../images/struc/tbas.gif" alt="base de données" name="image8" width="35" height="35" id="image8" onmouseover="MM_swapImage('image8','','../../images/struc/tbaso.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
+            </div>
+              <p align="center"><a href="../../base.html" class="Style99">Base de données</a></p>            </td>
+            <td width="53"><div align="center"><a href="../../formulaire.html"><img src="../../images/struc/tnew.gif" alt="news" name="image9" width="35" height="35" id=image9 onmouseover="MM_swapImage('image9','','../../images/struc/tnewo.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
+            </div>
+            <p align="center"><a href="../../formulaire.html" class="Style99" onmouseover="MM_swapImage('image9','','../../images/struc/tnewo.gif',1)" onmouseout="MM_swapImgRestore()">Newsletter</a></p></td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+  <div id="touchacc">
+    <table width="265" cellspacing="0" cellpadding="0">
+      
+      <tr>
+        <td width="69"><div align="center">
+          <div id="sjbm"><a href="http://memobio.e-monsite.com"><img src="../../images/struc/prep_internat_titre_2012.png" alt="preparation concours internat 2011 - 2012" width="300" height="43" /></a></div>
+          <a href="../../index.html"><img src="../../images/struc/tacc.gif" alt="Accueil" name="Image5" width="35" height="35" id="Image5" onmouseover="MM_swapImage('Image5','','../../images/struc/tacco.gif',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+        <p align="center"><a href="../../index.html" class="Style99" onmouseover="MM_swapImage('Image5','','../../images/struc/tacco.gif',1)" onmouseout="MM_swapImgRestore()">Accueil</a></p></td>
+        <td width="69"><div align="center"><a href="../../outils/sitemap.html"><img src="../../images/struc/tplan.gif" alt="Plan du site" name="Image4" width="35" height="35" id="Image4" onmouseover="MM_swapImage('Image4','','../../images/struc/tplano.gif',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+        <p align="center"><a href="../../outils/sitemap.html" class="Style99" onmouseover="MM_swapImage('Image4','','../../images/struc/tplano.gif',1)" onmouseout="MM_swapImgRestore()">Plan du site</a>.</p></td>
+        <td width="68"><div align="center"><a href="../../copy.html"><img src="../../images/struc/tcop.gif" alt="Copyright" name="Image11" width="35" height="35" id="Image11" onmouseover="MM_swapImage('Image11','','../../images/struc/tcopo.gif',1)" onmouseout="MM_swapImgRestore()" /></a></div>          
+        <p align="center"><a href="../../copy.html" class="Style99" onmouseover="MM_swapImage('Image11','','../../images/struc/tcopo.gif',1)" onmouseout="MM_swapImgRestore()">Copyright</a>.</p></td>
+        <td width="68"><div align="center"><a href="../../sjbm.html"><img src="../../images/struc/tsjbm.gif" alt="Copyright" name="Image12" width="35" height="35" id="Image12" onmouseover="MM_swapImage('Image12','','../../images/struc/tsjbmo.gif',1)" onmouseout="MM_swapImgRestore()" /></a><br /> 
+        </div></td>
+        </td>
+      </tr>
+
+      <tr>
+        <td valign="top" ondblclick="MM_swapImage('Image3','','../../images/struc/tmailo.gif',1)"><div align="center"><a href="mailto:nedelec@memobio.fr"><img src="../../images/struc/tmail.gif" alt="Contact" name="Image3" width="35" height="35" align="top" id="Image3" onmouseover="MM_swapImage('Image3','','../../images/struc/tmailo.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
+        </div>
+          <p align="center"><a href="mailto:nedelec@memobio.fr" class="Style99" onmouseover="MM_swapImage('Image3','','../../images/struc/tmailo.gif',1)" onmouseout="MM_swapImgRestore()">Contact<br />
+      </a></p></td>
+        <td><div align="center"><a href="../../nous.html"><img src="../../images/struc/tnous.gif" alt="Qui sommes-nous ?" name="Image2" width="35" height="35" id="Image2" onmouseover="MM_swapImage('Image2','','../../images/struc/tnouso.gif',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+        <p align="center"><a href="../../nous.html" class="Style99" onmouseover="MM_swapImage('Image2','','../../images/struc/tnouso.gif',1)" onmouseout="MM_swapImgRestore()">Qui sommes</a></p>
+        <p align="center" class="stylnous"><a href="../../nous.html" class="Style99" onmouseover="MM_swapImage('Image2','','../../images/struc/tnouso.gif',1)" onmouseout="MM_swapImgRestore()">        nous </a>?</p></td>
+        <td>          <div align="center"><a href="../../legal.html"><img src="../../images/struc/tleg.gif" alt="Mentions légales" name="image6" width="35" height="35" id="image6" onmouseover="MM_swapImage('image6','','../../images/struc/tlego.gif',1)" onmouseout="MM_swapImgRestore()" /><br />
+        </a> </div>          
+        <p align="center"><a href="../../legal.html" class="Style99" onmouseover="MM_swapImage('image6','','../../images/struc/tlego.gif',1)" onmouseout="MM_swapImgRestore()">Mentions </a></p>
+        <p align="center" class="stylnous"><a href="#" class="Style99" onmouseover="MM_swapImage('image6','','../../images/struc/tlego.gif',1)" onmouseout="MM_swapImgRestore()">légales</a>.</p></td>
+        <td><div align="center"><a href="../../dons.html"><img src="../../images/struc/tdons.gif" alt="Copyright" name="Image1" width="35" height="35" id="Image1" onmouseover="MM_swapImage('Image1','','../../images/struc/tdonso.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
+        </div>
+        <p align="center"><a href="../../copy.html" class="Style99" onmouseover="MM_swapImage('Image1','','../../images/struc/tdonso.gif',1)" onmouseout="MM_swapImgRestore()">Donations</a>.</p></td></td>
+      </tr>
+    </table>
+    <p>&nbsp;</p>
+  </div>
+<a href="../../index.html"><img src="../../images/bact/memobio.jpg" alt="MemoBio" width="467" height="120" hspace="250" /></a>
+<div id="apDiv1">
+<form name="SearchForm"  action="sessearch.php">
+<span class="b_normal"><style type='text/css'>
+<!--
+.b_normal {font-size:12px;color:#003063;font-family:Verdana,Arial,Helvetica}
+-->
+</style>Recherche : 
+<input type="text" name="q" size="20">
+<input type="submit" value="Go">
+<br>
+</span>
+</form>
+</div>
+</div>
+
+<div id="contenu"></div>
+  <div id="menulat"></div>
+<div id="menumodif">
+      <div align="center" class="Stylemenutit"><a href="bi_dysl.html" class="Stylemenutit">Dyslipidémie </a> </div>
+      <p><a href="bi_dy_fr.html">Classification de Frederickson</a></p>
+      <p>Diagnostic biologique</p>
+      <ul>
+        <li><a href="bi_dy_di.html">Quel bilan réaliser ?</a></li>
+        <li><a href="bi_dy_int.html">Interprétation du bilan lipidique</a></li>
+        <li><a href="bi_dy_fac.html">Interprétation d'une dyslipidémie chez un sujet diabétique</a></li>
+      </ul>
+      <p><a href="bi_dy_tt.html">Traitement</a></p>
+    </div>
+
+<div id="texte"></div>
+<!-- InstanceBeginEditable name="EditRegion1" -->
+  <div id="txtmodif">
+    <h1>Facteurs de risque de maladie   cardio-vasculaire et cible du cholestérol LDL</h1>
+    <h2>I)              Facteurs de risque   cardio-vasculaire selon les recommandations de la Haute Autorité de Santé <span class="Style3">(« Prise en charge du diabète de type 2. mai 2006) </span></h2>
+    <p>-     âge   (&gt; 50 ans chez l’homme et &gt; 60 ans chez la femme)<br />
+      -       antécédents familiaux d’accident cardio-vasculaire précoce   :</p>
+    <ul>
+      <li>   infarctus du myocarde ou mort subite avant 55 ans chez le   père ou chez un parent du 1er degré de sexe masculin</li>
+      <li>infarctus du myocarde ou mort subite avant 65 ans chez la   mère ou chez un parent du 1er degré de sexe féminin</li>
+      </ul>
+    <p>      -       antécédents familiaux d’AVC constitué précoce (&lt; 45   ans)<br />
+      -       tabagisme (tabagisme actuel ou arrêté depuis moins de 3   ans)<br />
+      -     HTA   permanente traitée ou non<br />
+      -       HDL - cholestérol &lt; 0,4 g/l quel que soit le sexe<br />
+        <span lang="EN-US" xml:lang="EN-US">-     </span><span lang="EN-US" xml:lang="EN-US">LDL - cholestérol &gt; 1,60 g/l (4,1   mmol/l)<br />
+          </span>-       microalbuminurie &gt; 30 mg/24 heures</p>
+    <p> </p>
+    <p>Un cholestérol HDL &gt;0,6g/l est un facteur protecteur de   maladie cardio-vasculaire : on retranche donc un point au calcul du nombre de   facteurs de risque de maladie cardio-vasculaire pour déterminer la cible de   cholestérol LDL à atteindre.</p>
+    <h2>II) Autres facteurs à prendre en   compte <span class="Style3">(mais n’influençant pas la cible du cholestérol   LDL)</span></h2>
+    <p>-       obésité abdominale (périmètre abdominal &gt; 94 cm chez   l’homme et 80 cm chez la femme) ou obésité (IMC &gt; 30 kg/m2)<br />
+      -       sédentarité (absence d’activité physique régulière : soit   environ 30 minutes, 3 fois par semaine)<br />
+      -       consommation excessive d’alcool (plus de 3 verres de   vin/jour chez l’homme et 2 verres/jour chez la femme)<br />
+      -       aspects psychosociaux (activité professionnelle, problèmes   psychologiques, psychosociaux, troubles de l’alimentation, dynamique familiale,   facilité d’adaptation, éducation, emploi).</p>
+    <h2>III) Cible du cholestérol   LDL</h2>
+    <table cellspacing="0" cellpadding="0" border="1">
+      <tbody>
+        <tr>
+          <td width="791" bgcolor="#E5CBFF"><p align="center" class="Style11">Profil   clinique</p></td>
+          <td width="144" bgcolor="#E5CBFF"><p align="center" class="Style11">Objectif</p></td>
+        </tr>
+        <tr>
+          <td width="791" valign="top" bgcolor="#FFE4C3"><p class="Style5">Patients sans autre facteur   de risque additionnel au diabète, dépourvu de microangiopathies et dont le   diabète évolue depuis moins de 5 ans </p></td>
+          <td width="144" bgcolor="#DEF3E1"><p align="center" class="Style7">LDL chol &lt;   1,9g/l</p></td>
+        </tr>
+        <tr>
+          <td width="791" valign="top" bgcolor="#FFE4C3"><p class="Style5">Patients ne répondant pas aux   critères précédents et présentant au plus 1 facteur de risque additionnel au   diabète </p></td>
+          <td width="144" bgcolor="#DEF3E1"><p align="center" class="Style6 Style8 Style9">LDL chol &lt;   1,6g/l</p></td>
+        </tr>
+        <tr>
+          <td width="791" valign="top" bgcolor="#FFE4C3"><p class="Style5">Patients   présentant au moins 2 facteurs de risque additionnel à un diabète évoluant   depuis moins de 10 ans</p></td>
+          <td width="144" bgcolor="#DEF3E1"><p align="center" class="Style6 Style9">LDL chol &lt;   1,3g/l</p></td>
+        </tr>
+        <tr>
+          <td width="791" valign="top" bgcolor="#FFE4C3"><p class="Style5"><U>Patients   avec antécédents cardiovasculaires : </U></p>
+            <p>•   De maladie coronaire avérée (angor stable et instable, revascularisation, IDM,   IDM silencieux documenté)    ou </p>
+            <p>•   De maladie vasculaire avérée (accident vasculaire cérébral ischémique,   artériopathie périphérique stade II ou supérieur). </p>
+            <p>&nbsp;</p>
+            <p class="Style5"><U>Patients   sans antécédents cardiovasculaires mais à haut risque cardiovasculaire défini   par : </U></p>
+            <p>•   Soit une atteinte rénale (définie par une albuminurie &gt; 300 mg/24 h ou par un   débit de filtration glomérulaire estimé par la formule de Cockcroft-Gault &lt; à   60 ml/min </p>
+            <p>•   Soit un diabète évoluant depuis <U>plus de 10 ans </U><strong>et </strong>au moins deux   des facteurs de risque additionnel au diabète</p>
+            <p> </p>
+            <p class="Style5"><U>L’équivalent   prévention secondaire concerne aussi les patients ayant un risque &gt; 20 % de   faire un événement coronarien dans les 10 ans (risque calculé à partir d’une   équation de risque) </U></p></td>
+          <td width="144" bgcolor="#DEF3E1"><p align="center" class="Style6 Style9">LDL chol &lt;   1g/l</p></td>
+        </tr>
+</tbody>
+</table>
+    <h2>IV) Traitement </h2>
+    <p>Le traitement de choix visant à diminuer le taux de   LDL-cholestérol est un médicament de la famille des <strong>statines</strong>.</p>
+    <p>En cas d’hypertriglycéridémie : TG&gt;2g/l et LDL cholestérol   &lt;1g/l ou TG&gt;4g/l : on recommande un régime restreint en graisse d’origine   animale, une intensification du traitement du diabète et éventuellement la   prescription d’un <strong>fibrate </strong>(en respectant les contre-indications et   interactions médicamenteuses).</p>
+    <p> </p>
+    <p>L’administration d’<strong>aspirine</strong> à faible dose (75-150mg)   est recommandée chez les diabétiques présentant au moins un facteur de risque   cardio-vasculaire associé.</p>
+    <h2><strong>IV)   Bibliographie</strong></h2>
+    <p>Recommandations de l’HAS : « <strong>Méthodes d’évaluation du   risque cardio-vasculaire global</strong> » Septembre 2004 : <a href="http://www.has-sante.fr/portail/display.jsp?id=c_464777">http://www.has-sante.fr/portail/display.jsp?id=c_464777</a> (les modèles de calcul du risque cardio-vasculaire de Framingham et de SCORE se   trouvent aux pages 91-93 du « Risque_cardio_vasculaire.pdf »)</p>
+    <p>Recommandations de l’HAS : « <strong>Traitement médicamenteux du   diabète de type 2</strong> » Novembre 2006 : <a href="http://www.has-sante.fr/portail/display.jsp?id=c_459270">http://www.has-sante.fr/portail/display.jsp?id=c_459270</a></p>
+    <h1>&nbsp;</h1>
+  </div>
+  <!-- InstanceEndEditable -->
+</div>
+
+<div class="suivi"><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5556253-1");
+pageTracker._trackPageview();
+</script>
+</div>
+<script type="text/javascript">
+<!--
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"../SpryAssets/SpryMenuBarDownHover.gif", imgRight:"../SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+</script>
+</body>
+<!-- InstanceEnd --></html>

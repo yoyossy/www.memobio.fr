@@ -1,0 +1,443 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/ba_bact.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Chlamydia sp. - Chlamydophila sp.</title>
+<!-- InstanceEndEditable -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META NAME='description' LANG='fr' CONTENT="Memobio est un site d'aide au diagnostic biologique, &agrave; la r&eacute;alisation et &agrave; l'interpr&eacute;tation des analyses de biologie m&eacute;dicale. Il pr&eacute;sente une multitude de tableaux, de fiches, de diagrammes, de photos et de vid&eacute;o. Ce site a fait l'objet d'un th&egrave;se de fin d'internat en biologie">
+<META NAME='keywords' LANG='fr' CONTENT="biologie, medicale, biochimie, hematologie, parasitologie, bacteriologie, virologie, mycologie, immunologie, cours, internat, fiches, photos, fiche, photo, tableau, tableaux, video">
+<META NAME='author' CONTENT="Nedelec Adrien - Biologiste">
+<META NAME='Identifier-URL' CONTENT="http://memobio.fr" />
+<link href="../../css/title.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+>
+<META NAME='revisit-after' CONTENT="10" />
+<META NAME="robots" CONTENT="Index,Follow"/>
+
+
+
+
+<script type="text/javascript">
+<!--
+function MM_showHideLayers() { //v9.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) 
+  with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+//-->
+</script>
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+<!--
+#contenu #texte #txtmodif h1 {
+	font-size: 36px;
+	font-weight: normal;
+	color: #0000EE;
+	text-align: center;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 15px;
+	padding-left: 0px;
+}
+#contenu #texte #txtmodif table {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border-collapse: collapse;
+}
+#contenu #texte #txtmodif table td.txt {
+	padding-right: 2px;
+	border: 1px solid #33CCFF;
+	background-color: #F4FCFD;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.Style12 {font-size: 5px;
+	color: #FFFFFF;
+}
+.style14 {color: #16B4B4;
+	font-weight: bold;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+#contenu #texte #txtmodif {
+	z-index: 1;
+}
+-->
+</style>
+<style type="text/css">
+<!--
+.Style16 {color: #116A8C}
+-->
+</style>
+<!-- InstanceEndEditable -->
+<link href="../../css/bact.css" rel="stylesheet" type="text/css" />
+
+<script src="../../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+
+</head>
+<body bgcolor="#FFFFFF" onload="MM_preloadImages('../../images/struc/tnouso.gif','../../images/struc/tmailo.gif','../../images/struc/tplano.gif','../../images/struc/tacco.gif','../../images/struc/tcopo.gif','../../images/struc/tlego.gif','../../images/struc/tenso.gif','../../images/struc/tlieno.gif','../../images/struc/tbaso.gif','../../images/struc/tnewo.gif','../../images/struc/tsjbmo.gif','../../images/struc/tdonso.gif')">
+<div id="menu">
+  <ul id="MenuBar1" class="MenuBarHorizontal">
+    <li><a class="MenuBarItemSubmenu" href="../bioc/bi_acc.html">Biochimie</a>
+<ul>
+          <li class="Bioch"><a href="../bioc/bi_diab.html">Diab&egrave;te sucr&eacute;</a></li>
+        <li class="Bioch"><a href="../bioc/bi_dysl.html">Dyslipid&eacute;mie</a></li>
+          <li class="Bioch"><a href="../bioc/bi_rein.html">Pathologies r&eacute;nales</a></li>
+          <li class="Bioch"><a href="../bioc/bi_foie.html">Pathologies h&eacute;patiques</a></li>
+          <li class="Bioch"><a href="../bioc/bi_panc.html">Pancr&eacute;atite aigu&euml;</a></li>
+          <li class="Bioch"><a href="../bioc/bi_coeu.html">Marqueurs cardiaques</a></li>
+          <li class="Bioch"><a href="../bioc/bi_hydr.html">Troubles hydro-&eacute;lectrolytiques</a></li>
+          <li class="Bioch"><a href="../bioc/bi_acba.html">Troubles acido-basiques</a></li>
+          <li class="Bioch"><a href="../bioc/bi_phca.html">M&eacute;tabolisme phospho-calcique</a></li>
+          <li class="Bioch"><a href="../bioc/bi_thyr.html">Pathologies thyro&iuml;diennes</a></li>
+          <li class="Bioch"><a href="../bioc/bi_surr.html">Pathologies surr&eacute;naliennes</a></li>
+          <li class="Bioch"><a href="../bioc/bi_tumo.html">Marqueurs tumoraux</a></li>
+          <li class="Bioch"><a href="../bioc/bi_uric.html">Hyperuric&eacute;mies</a></li>
+      </ul>
+    </li>
+    <li><a href="../hema/he_acc.html" class="MenuBarItemSubmenu">H&eacute;matologie</a>
+      <ul>
+        <li class="Hemato"><a href="../hema/he_anem.html">An&eacute;mies</a></li>
+        <li class="Hemato"><a href="../hema/he_thro.html">Thrombop&eacute;nies</a></li>
+        <li class="Hemato"><a href="../hema/he_mono.html">Syndromes mononucl&eacute;osiques</a></li>
+        <li class="Hemato"><a href="../hema/he_slpc.html">Syndromes lymphoprolif&eacute;ratifs </a></li>
+        <li class="Hemato"><a href="../hema/he_smpc.html">Syndromes my&eacute;loprolif&eacute;ratifs</a></li>
+        <li class="Hemato"><a href="../hema/he_aigu.html">Leuc&eacute;mies aigu&euml;s</a></li>
+        <li class="Hemato"><a href="../hema/he_smd.html">Syndromes my&eacute;lodysplasiques</a></li>
+        <li class="Hemato"><a href="../hema/he_stas.html">H&eacute;mostase</a></li>
+        <li class="Hemato"><a href="../hema/he_immu.html">Immuno-h&eacute;matologie</a></li>
+        <li class="Hemato"><a href="../hema/he_phot.html">Photos</a></li>
+      </ul>
+    </li>
+    <li><a href="../immu/im_acc.html" class="MenuBarItemSubmenu">Immunologie</a>
+      <ul>
+        <li><a href="../immu/im_alle.html">Allergologie</a></li>
+        <li><a href="../immu/im_auto.html">Auto-immunit&eacute;</a></li>
+        <li><a href="../immu/im_elec.html">Electrophor&egrave;se</a></li>
+        <li><a href="../immu/im_infl.html">Inflammation</a></li>
+      </ul>
+    </li>
+    <li><a href="ba_acc.html" class="MenuBarItemSubmenu">Bact&eacute;riologie</a>
+      <ul>
+        <li class="Bacterio"><a href="ba_bact.html">Par bact&eacute;rie</a></li>
+        <li class="Bacterio"><a href="ba_prel.html">Par pr&eacute;l&egrave;vement</a></li>
+        <li class="Bacterio"><a href="ba_atb.html">Antibiogramme</a></li>
+        <li class="Bacterio"><a href="ba_path.html">Pathologies</a></li>
+        <li class="Bacterio"><a href="ba_tech.html">Techniques de laboratoire</a></li>
+        <li class="Bacterio"><a href="ba_traitement.html">Prise en charge thérapeutique</a></li>
+      </ul>
+    </li>
+    <li class="Styleviro"><a href="../viro/vi_acc.html" class="MenuBarItemSubmenu">Virologie</a>
+      <ul>
+        <li class="Viro"><a href="../viro/vi_vih.html">VIH</a> </li>
+        <li class="Viro"><a href="../viro/vi_vhc.html">VHC</a></li>
+        <li class="Viro"><a href="../viro/vi_vhb.html">VHB</a></li>
+        <li class="Viro"><a href="../viro/vi_vha.html">VHA</a></li>
+        <li class="Viro"><a href="../viro/vi_ebv.html">EBV</a></li>
+        <li class="Viro"><a href="../viro/vi_cmv.html">CMV</a></li>
+        <li class="Viro"><a href="../viro/vi_hsv.html">HSV</a></li>
+      </ul>
+    </li>
+  <li class="Stylepara"><a class="MenuBarItemSubmenu" href="../para/pa_acc.html">Parasitologie - Mycologie</a>
+    <ul>
+          <li class="Parasito"><a href="../para/pa_tepr.html">Techniques de pr&eacute;l&egrave;vement</a></li>  
+          <li class="Parasito"><a href="../para/pa_micro.html">Diagnostic direct (parasito)</a> </li>
+          <li class="Parasito"><a href="../para/my_micro.html">Diagnostic direct (myco)</a></li>
+        <li class="Parasito"><a href="../para/pa_sero.html">S&eacute;rologies</a></li>
+          <li class="Parasito"><a href="../para/pa_tech.html">Techniques de laboratoire</a></li>
+          <li class="Parasito"><a href="../para/pa_prel.html">Etiologies par pr&eacute;l&egrave;vement</a></li>
+          <li class="Parasito"><a href="../para/pa_clin.html">Etiologies par atteinte clinique</a></li>
+          <li class="Parasito"><a href="../para/pa_rgeo.html">R&eacute;partition g&eacute;ographique</a></li>
+          <li class="Parasito"><a href="../para/pa_palu.html">Paludisme</a></li>
+          <li class="Parasito"><a href="../para/pa_toxo.html">Toxoplasmose</a></li>
+          <li class="Parasito"><a href="../para/pa_cycle.html">Cycles parasitaires</a></li>
+        <li class="Parasito"><a href="../para/pa_fich.html">Fiches par agent pathog&egrave;ne</a></li>
+  </ul>
+    </li>
+  </ul>
+</div>
+<div id="titre">
+  <div id="contenu">
+    <div class="construc" id="construc">
+      <div align="left">
+        <table width="264" height="53" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="68"><div align="center"><a href="../../enseig.html"><img src="../../images/struc/tens.gif" alt="Enseignement" name="Image7" width="35" height="35" id="Image7" onmouseover="MM_swapImage('Image7','','../../images/struc/tenso.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
+                <p><a href="../../enseig.html" class="Style99">Enseignement</a></p>
+            </div></td>
+            <td width="49"><div align="center"><a href="../../liens.html"><img src="../../images/struc/tlien.gif" alt="liens" name="Image6" width="35" height="35" id="Image6" onmouseover="MM_swapImage('Image6','','../../images/struc/tlieno.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
+            </div>
+            <p align="center"><a href="../../liens.html" class="Style99" onmouseover="MM_swapImage('Image6','','../../images/struc/tlieno.gif',1)" onmouseout="MM_swapImgRestore()">Liens</a>.</p></td>
+            <td width="87" onmouseover="MM_swapImage('image8','','../../images/struc/tbaso.gif',1)" onmouseout="MM_swapImgRestore()"><div align="center"><a href="../../base.html"><img src="../../images/struc/tbas.gif" alt="base de données" name="image8" width="35" height="35" id="image8" onmouseover="MM_swapImage('image8','','../../images/struc/tbaso.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
+            </div>
+              <p align="center"><a href="../../base.html" class="Style99">Base de données</a></p>            </td>
+            <td width="53"><div align="center"><a href="../../formulaire.html"><img src="../../images/struc/tnew.gif" alt="news" name="image9" width="35" height="35" id=image9 onmouseover="MM_swapImage('image9','','../../images/struc/tnewo.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
+            </div>
+            <p align="center"><a href="../../formulaire.html" class="Style99" onmouseover="MM_swapImage('image9','','../../images/struc/tnewo.gif',1)" onmouseout="MM_swapImgRestore()">Newsletter</a></p></td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+  <div id="touchacc">
+    <table width="265" cellspacing="0" cellpadding="0">
+      
+      <tr>
+        <td width="69"><div align="center">
+          <div id="sjbm"><a href="http://memobio.e-monsite.com"><img src="../../images/struc/prep_internat_titre_2012.png" alt="preparation concours internat 2011 - 2012" width="300" height="43" /></a></div>
+          <a href="../../index.html"><img src="../../images/struc/tacc.gif" alt="Accueil" name="Image5" width="35" height="35" id="Image5" onmouseover="MM_swapImage('Image5','','../../images/struc/tacco.gif',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+        <p align="center"><a href="../../index.html" class="Style99" onmouseover="MM_swapImage('Image5','','../../images/struc/tacco.gif',1)" onmouseout="MM_swapImgRestore()">Accueil</a></p></td>
+        <td width="69"><div align="center"><a href="../../outils/sitemap.html"><img src="../../images/struc/tplan.gif" alt="Plan du site" name="Image4" width="35" height="35" id="Image4" onmouseover="MM_swapImage('Image4','','../../images/struc/tplano.gif',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+        <p align="center"><a href="../../outils/sitemap.html" class="Style99" onmouseover="MM_swapImage('Image4','','../../images/struc/tplano.gif',1)" onmouseout="MM_swapImgRestore()">Plan du site</a>.</p></td>
+        <td width="68"><div align="center"><a href="../../copy.html"><img src="../../images/struc/tcop.gif" alt="Copyright" name="Image11" width="35" height="35" id="Image11" onmouseover="MM_swapImage('Image11','','../../images/struc/tcopo.gif',1)" onmouseout="MM_swapImgRestore()" /></a></div>          
+        <p align="center"><a href="../../copy.html" class="Style99" onmouseover="MM_swapImage('Image11','','../../images/struc/tcopo.gif',1)" onmouseout="MM_swapImgRestore()">Copyright</a>.</p></td>
+        <td width="68"><div align="center"><a href="../../sjbm.html"><img src="../../images/struc/tsjbm.gif" alt="Copyright" name="Image12" width="35" height="35" id="Image12" onmouseover="MM_swapImage('Image12','','../../images/struc/tsjbmo.gif',1)" onmouseout="MM_swapImgRestore()" /></a><br /> 
+        </div></td>
+        </td>
+      </tr>
+
+      <tr>
+        <td valign="top" ondblclick="MM_swapImage('Image3','','../../images/struc/tmailo.gif',1)"><div align="center"><a href="mailto:nedelec@memobio.fr"><img src="../../images/struc/tmail.gif" alt="Contact" name="Image3" width="35" height="35" align="top" id="Image3" onmouseover="MM_swapImage('Image3','','../../images/struc/tmailo.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
+        </div>
+          <p align="center"><a href="mailto:nedelec@memobio.fr" class="Style99" onmouseover="MM_swapImage('Image3','','../../images/struc/tmailo.gif',1)" onmouseout="MM_swapImgRestore()">Contact<br />
+      </a></p></td>
+        <td><div align="center"><a href="../../nous.html"><img src="../../images/struc/tnous.gif" alt="Qui sommes-nous ?" name="Image2" width="35" height="35" id="Image2" onmouseover="MM_swapImage('Image2','','../../images/struc/tnouso.gif',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+        <p align="center"><a href="../../nous.html" class="Style99" onmouseover="MM_swapImage('Image2','','../../images/struc/tnouso.gif',1)" onmouseout="MM_swapImgRestore()">Qui sommes</a></p>
+        <p align="center" class="stylnous"><a href="../../nous.html" class="Style99" onmouseover="MM_swapImage('Image2','','../../images/struc/tnouso.gif',1)" onmouseout="MM_swapImgRestore()">        nous </a>?</p></td>
+        <td>          <div align="center"><a href="../../legal.html"><img src="../../images/struc/tleg.gif" alt="Mentions légales" name="image6" width="35" height="35" id="image6" onmouseover="MM_swapImage('image6','','../../images/struc/tlego.gif',1)" onmouseout="MM_swapImgRestore()" /><br />
+        </a> </div>          
+        <p align="center"><a href="../../legal.html" class="Style99" onmouseover="MM_swapImage('image6','','../../images/struc/tlego.gif',1)" onmouseout="MM_swapImgRestore()">Mentions </a></p>
+        <p align="center" class="stylnous"><a href="#" class="Style99" onmouseover="MM_swapImage('image6','','../../images/struc/tlego.gif',1)" onmouseout="MM_swapImgRestore()">légales</a>.</p></td>
+        <td><div align="center"><a href="../../dons.html"><img src="../../images/struc/tdons.gif" alt="Copyright" name="Image1" width="35" height="35" id="Image1" onmouseover="MM_swapImage('Image1','','../../images/struc/tdonso.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
+        </div>
+        <p align="center"><a href="../../copy.html" class="Style99" onmouseover="MM_swapImage('Image1','','../../images/struc/tdonso.gif',1)" onmouseout="MM_swapImgRestore()">Donations</a>.</p></td></td>
+      </tr>
+    </table>
+    <p>&nbsp;</p>
+  </div>
+<a href="../../index.html"><img src="../../images/bact/memobio.jpg" alt="MemoBio" width="467" height="120" hspace="250" /></a>
+<div id="apDiv1">
+<form name="SearchForm"  action="sessearch.php">
+<span class="b_normal"><style type='text/css'>
+<!--
+.b_normal {font-size:12px;color:#003063;font-family:Verdana,Arial,Helvetica}
+-->
+</style>Recherche : 
+<input type="text" name="q" size="20">
+<input type="submit" value="Go">
+<br>
+</span>
+</form>
+</div>
+</div>
+
+<div id="contenu"></div>
+  <div id="menulat"></div>
+<div id="menumodif">
+      <div align="center" class="Stylemenutit"><a href="ba_bact.html" class="Stylemenutit">Bactéries </a> </div>
+      <p onmouseover="MM_showHideLayers('cgp','','show')" onmouseout="MM_showHideLayers('cgp','','hide')"><a href="ba_ba_cgp.html" class="Style20">Cocci Gram positif</a></p>
+      <ul><div id="cgp" onmouseover="MM_showHideLayers('cgp','','show')" onmouseout="MM_showHideLayers('cgp','','hide')">
+          <ul>
+              <li><a href="ba_ba_cgp.html">Cocci Gram positif</a></li>
+              <li><a href="ba_ba_sau.html"><em>Staphylococcus aureus</em></a></li>
+              <li><a href="ba_ba_spy.html"> <em>Streptococcus pyogenes</em></a></li>
+              <li><a href="ba_ba_sag.html"> <em>Streptococcus agalactiae</em></a></li>
+              <li><a href="ba_ba_spn.html"> <em>Streptococcus pneumoniae</em></a></li>
+              <li><a href="ba_ba_enc.html"> <em>Enterococcus </em>sp.</a></li>
+          </ul>
+           
+              </div>
+      </ul>
+      <p onmouseover="MM_showHideLayers('cgn','','show')" onmouseout="MM_showHideLayers('cgn','','hide')"><a href="ba_ba_cgn.html" class="Style20">Cocci Gram négatif</a></p>
+      <ul>
+        <div id="cgn" onmouseover="MM_showHideLayers('cgn','','show')" onmouseout="MM_showHideLayers('cgn','','hide')">
+          <ul>
+            <li><a href="ba_ba_cgn.html">Cocci Gram négatif</a></li>
+              <li><a href="ba_ba_nei.html"><em>Neisseria meningitidis</em></a></li>
+              <li><a href="ba_ba_nei.html"><em>Neisseria gonorrhoeae</em></a></li>
+              <li><a href="ba_ba_bca.html"><em>Branhamella catarrhalis</em></a></li>
+          </ul>
+        </div>
+      </ul>
+      <p onmouseover="MM_showHideLayers('bgp','','show')" onmouseout="MM_showHideLayers('bgp','','hide')"><a href="ba_ba_bgp.html" class="Style20">Bacilles Gram positif</a></p>
+      <ul>
+        <div id="bgp" onmouseover="MM_showHideLayers('bgp','','show')" onmouseout="MM_showHideLayers('bgp','','hide')">
+          <ul>
+              <li><a href="ba_ba_bgp.html">Bacilles Gram positif</a></li>
+              <li><a href="ba_ba_lmo.html"><em>Listeria monocytogenes</em></a></li>
+              <li><a href="ba_ba_cor.html"><em>Corynebacterium</em> sp.</a></li>
+          </ul>
+        </div>
+      </ul>
+      <p onmouseover="MM_showHideLayers('acti','','show')" onmouseout="MM_showHideLayers('acti','','hide')"><a href="ba_ba_acti.html" class="Style20">Actinomycètes aérobies</a>      </p>
+      <ul>
+        <div id="acti" onmouseover="MM_showHideLayers('acti','','show')" onmouseout="MM_showHideLayers('acti','','hide')">
+          <ul>
+            <li><a href="ba_ba_acti.html">Actinomycètes aérobies</a></li>
+              <li><a href="ba_ba_noc.html"><em>Nocardia</em> sp.</a></li>
+              <li><a href="ba_ba_mtu.html"><em>Mycobacterium tuberculosis</em></a></li>
+          </ul>
+        </div>
+      </ul>
+      <p onmouseover="MM_showHideLayers('bgn','','show')" onmouseout="MM_showHideLayers('bgn','','hide')"><a href="ba_ba_bgn.html" class="Style20">Bacilles Gram négatif</a>      </p>
+      <ul>
+        <div id="bgn" onmouseover="MM_showHideLayers('bgn','','show')" onmouseout="MM_showHideLayers('bgn','','hide')">
+          <ul>
+            <li><a href="ba_ba_bgn.html">Bacilles Gram négatif</a></li>
+              <li><a href="ba_ba_ent.html">Entérobactéries</a></li>
+              <li><a href="ba_ba_pae.html"><em>Pseudomonas aeruginosa</em></a></li>
+              <li><a href="ba_ba_hin.html"><em>Haemophilus influenzae</em></a></li>
+              <li><a href="ba_ba_lpn.html"><em>Legionella pneumophila</em></a></li>
+              <li><a href="ba_ba_cam.html"><em>Campylobacter</em> sp.</a></li>
+              <li><a href="ba_ba_hpy.html"><em>Helicobacter pylori</em></a></li>
+              <li><a href="ba_ba_bpe.html"><em>Bordetella pertussis</em></a></li>
+              <li><a href="ba_ba_bhe.html"><em>Bartonella henselae</em></a></li>
+          </ul>
+        </div>
+      </ul>
+      <p><a href="ba_ba_coan.html" class="Style20">Cocci anaérobies</a></p>
+      <p onmouseover="MM_showHideLayers('bgpa','','show')" onmouseout="MM_showHideLayers('bgpa','','hide')"><a href="ba_ba_bgpa.html" class="Style20">Bacilles Gram positif anaérobies</a>      </p>
+      <ul>
+        <div id="bgpa" onmouseover="MM_showHideLayers('bgpa','','show')" onmouseout="MM_showHideLayers('bgpa','','hide')">
+          <ul>
+            <li><a href="ba_ba_bgpa.html">Bacilles Gram positif anaérobies</a></li>
+              <li><a href="ba_ba_clo.html"><em>Clostridium </em>sp.</a></li>
+          </ul>
+        </div>
+      </ul>
+      <p><a href="ba_ba_bgna.html" class="Style20">Bacilles Gram négatif anaérobies</a></p>
+      <p><a href="ba_ba_chl.html" class="Style20" onmouseover="MM_showHideLayers('mol','','show')" onmouseout="MM_showHideLayers('mol','','hide')">Intracellulaires stricts</a></p>
+      <p><a href="ba_ba_myc.html" class="Style20">Mollicutes <span class="Style21">(Mycoplasma - Ureaplasma)</span></a></p>
+      <div id="mol" onmouseover="MM_showHideLayers('mol','','show')" onmouseout="MM_showHideLayers('mol','','hide')">
+        <ul>
+          <li><a href="ba_ba_chl.html"><em>Chlamydia - Chlamydophila</em></a></li>
+        </ul>
+      </div>
+    </div>
+  
+<div id="texte"></div>
+<!-- InstanceBeginEditable name="EditRegion1" -->
+  <div id="txtmodif">
+    <h1><em>Chlamydia trachomatis, <br />
+      Chlamydophila pneumoniae, Chlamydophila psittaci</em></h1>
+    <table width="700">
+      <tr>
+        <td><img src="../../images/bact/prel.png" alt="Prélèvement" width="107" height="26" longdesc="Agent pathogène" /></td>
+      </tr>
+      <tr>
+        <td bordercolor="#33CCFF" class="txt"><p><span class="Style16"><strong><em>- Chlamydia trachomatis </em></strong></span>: 1er agent bactérien responsable d’IST, 70%  des stérilités tubaires<br />
+             <span class="Style16">- sérovars A, B, Ba et  C</span> : responsables du trachome (kératoconjonctivite chronique  contagieuse)<br />
+             <span class="Style16">- sérovars D, Da, E,  F, G, H, I, Ia, J et K</span> :  responsables d’IST &rarr; prélèvement endocervical sous  spéculum à l’écouvillon ou, chez l’homme, prélèvement urétral ou 1er jet d’urine&#13;<br />
+             <span class="Style16">- sérovars L1, L2,  L2a, L3</span> : responsables de la lymphogranulomatose vénérienne ou Maladie de  Nicolas et Favre (maladie systémique avec atteinte ganglionnaire et  lymphatique)&#13;</p>
+          <p><span class="Style16"><strong><em>- Chlamydophila pneumoniae</em></strong></span> :  pneumopathie atypique communautaire, pharyngite, bronchite</p>
+          <p><span class="Style16"><strong><em>- Chlamydophila psittaci </em></strong></span>:  pneumopathie (psittacose, ornithose : transmises par les oiseaux)&#13;</p></td>
+      </tr>
+      <tr>
+        <td class="Style6 Style10 Style11 Style12">d</td>
+      </tr>
+      <tr>
+        <td><img src="../../images/bact/cult.gif" alt="Culture" width="94" height="26" longdesc="Epidémiologie" /></td>
+      </tr>
+      <tr>
+        <td class="txt"><p:colorscheme
+ colors="#ffffff,#000000,#808080,#000000,#bbe0e3,#333399,#009999,#99cc00" xmlns:p="urn:schemas-microsoft-com:office:powerpoint"/>
+          <p:colorscheme
+ colors="#ffffff,#000000,#eeece1,#1f497d,#4f81bd,#c0504d,#0000ff,#800080" xmlns:p="urn:schemas-microsoft-com:office:powerpoint"/>
+          <p:colorscheme
+ colors="#ffffff,#000000,#eeece1,#1f497d,#4f81bd,#c0504d,#0000ff,#800080"/>
+          <p:colorscheme
+ colors="#ffffff,#000000,#eeece1,#1f497d,#4f81bd,#c0504d,#0000ff,#800080"/>
+          <p:colorscheme
+ colors="#ffffff,#000000,#eeece1,#1f497d,#4f81bd,#c0504d,#0000ff,#800080"/>          
+          - Germes  intracellulaires donc culture cellulaire réservée à des centres spécialisés</td>
+      </tr>
+      <tr>
+        <td class="Style12">d</td>
+      </tr>
+      <tr>
+        <td><img src="../../images/bact/ident.gif" alt="Identification" width="112" height="25" longdesc="Clinique" /></td>
+      </tr>
+      <tr>
+        <td bordercolor="#33CCFF" class="txt"> <p><span class="Style16"><strong><em>- Chlamydia trachomatis</em></strong></span> : <br />
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- la technique  de choix est la PCR<br />
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- techniques d’immunofluorescence directe </p>
+          <p><strong class="Style16"><em>- Chlamydophila pneumoniae</em></strong> et <em class="Style16"><strong>C. psittaci</strong></em> :<br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- techniques de PCR</p>          </td>
+      </tr>
+      <tr>
+        <td class="Style12">d</td>
+      </tr>
+      <tr>
+        <td><img src="../../images/bact/exam.gif" alt="Examens complémentaires" width="212" height="25" longdesc="Diagnostic biologique" /></td>
+      </tr>
+      <tr>
+        <td height="70" class="txt"><p:colorscheme
+ colors="#ffffff,#000000,#eeece1,#1f497d,#4f81bd,#c0504d,#0000ff,#800080"/>
+          <p:colorscheme
+ colors="#ffffff,#000000,#eeece1,#1f497d,#4f81bd,#c0504d,#0000ff,#800080"/>
+          <p><strong class="Style16"><em>- Chlamydia trachomatis </em></strong>: la sérologie peut aider  au diagnostic des infections génitales hautes, des pneumopathies du nouveau-né  ou des lymphogranulomatoses vénériennes</p>
+          <p><strong class="Style16"><em>- Chlamydophila pneumoniae</em></strong> et <strong class="Style16"><em>psittaci </em></strong>: la sérologie peut être utile au  diagnostic mais est d’interprétation difficile (prévalence élevée de  <em class="Style16">C. pneumoniae</em> et réactions croisées avec les autres <em>Chlamydia</em>).</p>          </td>
+      </tr>
+</table>
+    <p>&nbsp;</p>
+  </div>
+  <!-- InstanceEndEditable -->
+</div>
+
+<div class="suivi"><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5556253-1");
+pageTracker._trackPageview();
+</script>
+</div>
+<script type="text/javascript">
+<!--
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"../SpryAssets/SpryMenuBarDownHover.gif", imgRight:"../SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+</script>
+</body>
+<!-- InstanceEnd --></html>

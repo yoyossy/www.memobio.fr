@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Diagnostic mycologique (page enseignement)</title>
+
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+<link href="../../css/myco.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onload="MM_preloadImages('images/struc/tcopo.gif','../../images/struc/tacco.gif','../../images/struc/tenso.gif')">
+<div id="accdetail">
+  <table width="116" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td><div align="center"><a href="../../index.html"><img src="../../images/struc/tacc.gif" alt="Accueil" name="Image5" width="35" height="35" id="Imageacc" onmouseover="MM_swapImage('Image5','','../../images/struc/tacco.gif',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+          <p align="center"><a href="../../index.html" class="Style99" onmouseover="MM_swapImage('Image5','','../../images/struc/tacco.gif',1)" onmouseout="MM_swapImgRestore()">Accueil</a></p></td>
+      <td><div align="center"><a href="../../enseig.html"><img src="../../images/struc/tens.gif" alt="Accueil" name="Imageacc21" width="35" height="35" id="Imageacc21" onmouseover="MM_swapImage('Imageacc21','','../../images/struc/tenso.gif',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+          <p align="center"><a href="../../enseig.html" class="Style99" onmouseover="MM_swapImage('Imageacc21','','../../images/struc/tenso.gif',1)" onmouseout="MM_swapImgRestore()">Enseignement</a></p></td>
+    </tr>
+  </table>
+</div>
+<h1>Diagnostic mycologique<br />
+  (page enseignement)</h1>
+<p>Cliquez sur les icones correspondantes pour obtenir ces image en format haute définition (HD), en fichier Power Point 2003 (PPT<sub>2003</sub>) ou en fichier Power Point 2007 (PPT<sub>2007</sub>)</p>
+<p>N'oubliez pas que l'utilisation de ces fichiers est soumise à des règles de copyright : <a href="copy.html"><img src="../../images/struc/tcop.gif" alt="Copyright" width="35" height="35" align="absmiddle" id="Image8" onmouseover="MM_swapImage('Image8','','../../images/struc/tcopo.gif',1)" onmouseout="MM_swapImgRestore()" /></a></p>
+<p>&nbsp;</p>
+<table width="681" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="228" bgcolor="#EEEEEE"><div align="center"><img src="../../images/struc/hd.gif" width="60" height="60" alt="Haute définition" />Haute définition</div></td>
+    <td width="259" bgcolor="#EEEEEE"><div align="center"><img src="../../images/struc/ppt2003.gif" width="60" height="60" alt="power point 2003" /> Power Point 2003</div></td>
+    <td width="258" bgcolor="#EEEEEE"><div align="center"><img src="../../images/struc/ppt2007.gif" width="60" height="60" alt="Power point 2007" />Power Point 2007</div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table width="300" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr class="titfichimmu">
+    <td bgcolor="#FFF7EA"><h2 class="titfichmyco"><em>Aspergillus fumigatus</em></h2></td>
+  </tr>
+  <tr>
+    <td><img src="../../images/myco/aspfum.jpg" alt="Aspergillus fumigatus" width="710" height="513" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#EEEEEE"><div align="center"><img src="../../images/struc/hd.gif" width="60" height="60" alt="Haute définition" /><a href="../../ppt/myco/my_mi_fum.ppt"><img src="../../images/struc/ppt2003.gif" width="60" height="60" alt="power point 2003" /></a><a href="../../ppt/myco/my_mi_fum.pptx"><img src="../../images/struc/ppt2007.gif" width="60" height="60" alt="Power point 2007" /></a></div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="392" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="titfichimmu"><h2 class="titfichmyco"><em>Aspergillus flavus </em></h2></td>
+  </tr>
+  <tr>
+    <td><div align="center"><img src="../../images/myco/aspfla.jpg" alt="Aspergillus flavus" width="710" height="511" /></div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#EEEEEE"><div align="center"><img src="../../images/struc/hd.gif" width="60" height="60" alt="Haute définition" /><a href="../../ppt/myco/my_mi_fla.ppt"><img src="../../images/struc/ppt2003.gif" width="60" height="60" alt="power point 2003" /></a><a href="../../ppt/myco/my_mi_fla.pptx"><img src="../../images/struc/ppt2007.gif" width="60" height="60" alt="Power point 2007" /></a></div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="392" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="titfichimmu"><h2 class="titfichmyco"><em>Aspergillus nidulans</em></h2></td>
+  </tr>
+  <tr>
+    <td><div align="center"><img src="../../images/myco/aspnid.jpg" alt="Aspergillus nidulans" width="710" height="558" /></div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#EEEEEE"><div align="center"><img src="../../images/struc/hd.gif" width="60" height="60" alt="Haute définition" /><a href="../../ppt/myco/my_mi_nid.ppt"><img src="../../images/struc/ppt2003.gif" width="60" height="60" alt="power point 2003" /></a><a href="../../ppt/myco/my_mi_nid.pptx"><img src="../../images/struc/ppt2007.gif" width="60" height="60" alt="Power point 2007" /></a></div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="392" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="titfichimmu"><h2 class="titfichmyco"><em>Aspergillus versicolor</em></h2></td>
+  </tr>
+  <tr>
+    <td><div align="center"><img src="../../images/myco/aspver.jpg" alt="Aspergillus versicolor" width="710" height="555" /></div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#EEEEEE"><div align="center"><img src="../../images/struc/hd.gif" width="60" height="60" alt="Haute définition" /><a href="../../ppt/myco/my_mi_ver.ppt"><img src="../../images/struc/ppt2003.gif" width="60" height="60" alt="power point 2003" /></a><a href="../../ppt/myco/my_mi_ver.pptx"><img src="../../images/struc/ppt2007.gif" width="60" height="60" alt="Power point 2007" /></a></div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="392" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="titfichimmu"><h2 class="titfichmyco"><em>Aspergillus terreus</em></h2></td>
+  </tr>
+  <tr>
+    <td><div align="center"><img src="../../images/myco/terreus.jpg" alt="Aspergillus terreus" width="710" height="532" /></div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#EEEEEE"><div align="center"><img src="../../images/struc/hd.gif" width="60" height="60" alt="Haute définition" /><a href="../../ppt/myco/my_mi_ter.ppt"><img src="../../images/struc/ppt2003.gif" width="60" height="60" alt="power point 2003" /></a><a href="../../ppt/myco/my_mi_ter.pptx"><img src="../../images/struc/ppt2007.gif" width="60" height="60" alt="Power point 2007" /></a></div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="392" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="titfichimmu"><h2 class="titfichmyco"><em>Aspergillus niger</em></h2></td>
+  </tr>
+  <tr>
+    <td><div align="center"><img src="../../images/myco/niger.jpg" alt="Aspergillus niger" width="710" height="491" /></div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#EEEEEE"><div align="center"><img src="../../images/struc/hd.gif" width="60" height="60" alt="Haute définition" /><a href="../../ppt/myco/my_mi_nig.ppt"><img src="../../images/struc/ppt2003.gif" width="60" height="60" alt="power point 2003" /></a><a href="../../ppt/myco/my_mi_nig.pptx"><img src="../../images/struc/ppt2007.gif" width="60" height="60" alt="Power point 2007" /></a></div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="392" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="titfichimmu"><h2 class="titfichmyco"><em>Trichophyton rubrum</em></h2></td>
+  </tr>
+  <tr>
+    <td><div align="center"><img src="../../images/myco/trubrum.jpg" alt="Trichophyton rubrum" width="710" height="505" /></div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#EEEEEE"><div align="center"><img src="../../images/struc/hd.gif" width="60" height="60" alt="Haute définition" /><a href="../../ppt/myco/my_mi_rub.ppt"><img src="../../images/struc/ppt2003.gif" width="60" height="60" alt="power point 2003" /></a><a href="../../ppt/myco/my_mi_rub.pptx"><img src="../../images/struc/ppt2007.gif" width="60" height="60" alt="Power point 2007" /></a></div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="392" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="titfichimmu"><h2 class="titfichmyco"><em>Trichophyton mentragrophytes</em></h2></td>
+  </tr>
+  <tr>
+    <td><div align="center"><img src="../../images/myco/tmenta.jpg" alt="Trichophyton mentagrophytes" width="710" height="566" /></div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#EEEEEE"><div align="center"><img src="../../images/struc/hd.gif" width="60" height="60" alt="Haute définition" /><a href="../../ppt/myco/my_mi_men.ppt"><img src="../../images/struc/ppt2003.gif" width="60" height="60" alt="power point 2003" /></a><a href="../../ppt/myco/my_mi_men.pptx"><img src="../../images/struc/ppt2007.gif" width="60" height="60" alt="Power point 2007" /></a></div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="392" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="titfichimmu"><h2 class="titfichmyco"><em>Microsporum canis</em></h2></td>
+  </tr>
+  <tr>
+    <td><div align="center"><img src="../../images/myco/mcanis.jpg" alt="Microsporum canis" width="710" height="544" /></div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#EEEEEE"><div align="center"><img src="../../images/struc/hd.gif" width="60" height="60" alt="Haute définition" /><a href="../../ppt/myco/my_mi_can.ppt"><img src="../../images/struc/ppt2003.gif" width="60" height="60" alt="power point 2003" /></a><a href="../../ppt/myco/my_mi_can.pptx"><img src="../../images/struc/ppt2007.gif" width="60" height="60" alt="Power point 2007" /></a></div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="392" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="titfichimmu"><h2 class="titfichmyco"><em>Microsporum audouinii</em></h2></td>
+  </tr>
+  <tr>
+    <td><div align="center"><img src="../../images/myco/maudouinii.jpg" alt="Microsporum audouinii" width="710" height="514" /></div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#EEEEEE"><div align="center"><img src="../../images/struc/hd.gif" width="60" height="60" alt="Haute définition" /><a href="../../ppt/myco/my_mi_aud.ppt"><img src="../../images/struc/ppt2003.gif" width="60" height="60" alt="power point 2003" /></a><a href="../../ppt/myco/my_mi_aud.pptx"><img src="../../images/struc/ppt2007.gif" width="60" height="60" alt="Power point 2007" /></a></div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<table width="392" border="1" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="titfichimmu"><h2 class="titfichmyco"><em>Epidermophyton floccosum</em></h2></td>
+  </tr>
+  <tr>
+    <td><div align="center"><img src="../../images/myco/efloco.jpg" alt="Epidermophyton floccosum" width="710" height="489" /></div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#EEEEEE"><div align="center"><img src="../../images/struc/hd.gif" width="60" height="60" alt="Haute définition" /><a href="../../ppt/myco/my_mi_flo.ppt"><img src="../../images/struc/ppt2003.gif" width="60" height="60" alt="power point 2003" /></a><a href="../../ppt/myco/my_mi_flo.pptx"><img src="../../images/struc/ppt2007.gif" width="60" height="60" alt="Power point 2007" /></a></div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+
+</html>

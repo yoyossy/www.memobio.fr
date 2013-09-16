@@ -1,0 +1,287 @@
+@charset "utf-8";
+.Style99     {
+	color: #000000;
+	text-decoration: none;
+	font-size: 12px;
+}
+a.Style99:hover     {
+	color: #0099CC;
+	text-decoration: none;
+}
+#accdetail {
+	position:absolute;
+	width:54px;
+	height:62px;
+	z-index:1;
+	left: 1px;
+	top: 2px;
+}
+#accdetail #Imageacc {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
+#accdetail p {
+	margin-top: -5px;
+}
+
+#txtmodif table {
+}
+ #txtmodif table td.txt {
+	padding-right: 2px;
+	border: 1px solid #33CCFF;
+	background-color: #F4FCFD;
+}
+.Style12 {font-size: 5px;
+	color: #FFFFFF;
+}
+.Style16 {color: #116A8C}
+ #txtmodif h1 {
+	font-size: 36px;
+	font-weight: normal;
+	color: #C64A00;
+	text-align: center;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+}
+#menulat {
+	position:absolute;
+	width:200px;
+	height:493px;
+	z-index:50;
+	left: 4px;
+	top: 155px;
+	background-color: #FBE0AA;
+	background-image: url(bg_menu-3.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+#texte {
+	position:absolute;
+	width:775px;
+	height:600px;
+	z-index:1;
+	left: 215px;
+	top: 5px;
+}
+#menumodif {
+	position:absolute;
+	width:200px;
+	height:485px;
+	z-index:50;
+	left: 3px;
+	top: 157px;
+}
+.Style1 {
+	font-size: 20px;
+	color: #804900;
+	font-weight: bold;
+	text-align: center;
+}
+ #menumodif .Style1 {
+	margin-top: 3px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+ #menumodif ul {
+	font-size: 18px;
+	margin-top: 2px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 5px;
+	list-style-position: inside;
+	list-style-type: none;
+	padding: 0px;
+}
+ #menumodif ul li {
+	font-size: 16px;
+}
+.Style2 {
+	font-size: 20px;
+	color: #A62500;
+	font-weight: bold;
+}
+ #txtmodif h2 {
+	font-size: 24px;
+	font-weight: bold;
+	color: #C64A00;
+	margin: 0px;
+	padding-top: 15px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+ #txtmodif h3 {
+	font-size: 20px;
+	font-weight: bold;
+	color: #C64A00;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 40px;
+}
+ #txtmodif h4 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #C64A00;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 80px;
+}
+ #txtmodif p {
+	font-size: 16px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+}
+#menumodif p {
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding: 0px;
+}
+ #menumodif ul li a {
+	font-size: 16px;
+	color: #B04715;
+	text-decoration: none;
+}
+ #menumodif p a {
+	font-size: 18px;
+	color: #B04715;
+	text-decoration: none;
+}
+ #menumodif ul li a:hover {
+	font-size: 16px;
+	color: #3399FF;
+	text-decoration: none;
+}
+ #menumodif p a:hover {
+	font-size: 18px;
+	color: #3399FF;
+	text-decoration: none;
+}
+ #txtmodif  ul {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 20px;
+	list-style-position: inside;
+	list-style-type: circle;
+	padding: 0px;
+}
+.Style4 {
+	font-size: 16px;
+	color: #C64A00;
+	font-weight: bold;
+	text-decoration: none;
+}
+h1 {
+	font-size: 36px;
+	font-weight: normal;
+	color: #C64A00;
+	text-align: center;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+}
+h2 {
+	font-size: 24px;
+	font-weight: bold;
+	color: #C64A00;
+	margin: 0px;
+	padding-top: 15px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+h3 {
+	font-size: 20px;
+	font-weight: bold;
+	color: #C64A00;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 40px;
+}
+h4 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #C64A00;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 80px;
+}
+p {
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding: 0px;
+}
+.tablaccitem {
+	color: #BF4615;
+	background-color: #FFFCE8;
+	text-decoration: none;
+}
+ #txtmodif .tablaccitem:hover {
+	color: #3399FF;
+}
+
+.tablacctit {
+	font-size: 18px;
+	color: #AE5300;
+	font-weight: bold;
+	text-align: center;
+	background-color: #FFF1D9;
+	text-decoration: none;
+}
+ #txtmodif   a.tablacctit:hover {
+	color: #3399FF;
+}
+.titfichimmu {
+	background-color: #FFF7EA;
+	text-align: center;
+}
+img {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
+
+.Stylemenutit {
+	font-size: 20px;
+	color: #933000;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	padding-top: 3px;
+}
+
+ #menumodif a:hover {
+	color: #3399FF;
+	text-decoration: none;
+}
+.Stylecolns {
+	color: #C64A00;
+	text-decoration: none;
+}
+#txtmodif {
+	position:absolute;
+	width:775px;
+	height:600px;
+	z-index:10;
+	left: 212px;
+	top: 156px;
+}

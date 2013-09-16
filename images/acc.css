@@ -1,0 +1,193 @@
+#txtmodif   {
+	background-color: #F9F9F9;
+	border: 1px dashed #666666;
+	width: 850px;
+	top: 156px;
+	left: 57px;
+	position: absolute;
+	padding: 5px;
+	z-index: 10;
+}
+#txtmodif h3 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+}
+ #txtmodif p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+ #txtmodif h1 {
+	margin-top: 0px;
+	margin-bottom: 5px;
+}
+ #txtmodif ul {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+ #txtmodif img {
+	text-decoration: none;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
+.bleu {color: #0000CC}
+ #txtmodif table td.bact {
+	font-size: 18px;
+	font-weight: bold;
+	color: #005466;
+	background-color: #D9EFFF;
+	text-align: center;
+}
+ #txtmodif table td.viro {
+	font-size: 18px;
+	font-weight: bold;
+	color: #260066;
+	background-color: #F1D9FF;
+	text-align: center;
+}
+ #txtmodif table td.para {
+	font-size: 18px;
+	font-weight: bold;
+	color: #4D2F1A;
+	background-color: #F3D9CD;
+	text-align: center;
+}
+ #txtmodif table td.myco {
+	font-size: 18px;
+	font-weight: bold;
+	color: #0D6600;
+	background-color: #E9FFD9;
+	text-align: center;
+}
+ #txtmodif table td.bactit {
+	font-size: 16px;
+	color: #003866;
+	background-color: #F2FAFF;
+}
+ #txtmodif table td.viroit {
+	font-size: 16px;
+	color: #420066;
+	background-color: #FBF2FF;
+}
+ #txtmodif table td.parait {
+	font-size: 16px;
+	color: #4D2F1A;
+	background-color: #FCF9F5;
+}
+ #txtmodif table td.biocit {
+	font-size: 16px;
+	color: #665200;
+	background-color: #FFFFF2;
+}
+ #txtmodif table td.immuit {
+	font-size: 16px;
+	color: #662C00;
+	background-color: #FFF9F2;
+}
+ #txtmodif table td.bioc {
+	font-size: 18px;
+	font-weight: bold;
+	color: #665700;
+	background-color: #FEFFD9;
+	text-align: center;
+}
+ #txtmodif table td.immu {
+	font-size: 18px;
+	font-weight: bold;
+	color: #662100;
+	background-color: #FFE6D9;
+	text-align: center;
+}
+ #txtmodif table td.mycoit {
+	font-size: 16px;
+	color: #0D6600;
+	background-color: #F4FFF2;
+}
+
+ #txtmodif table td.hema {
+	font-size: 18px;
+	font-weight: bold;
+	color: #660000;
+	background-color: #FFD9D9;
+	text-align: center;
+}
+ #txtmodif  a {
+	text-decoration: none;
+}
+
+ #txtmodif table td.hemait {
+	font-size: 16px;
+	color: #4D2F1A;
+	background-color: #FCF9F5;
+}
+ #txtmodif table td.immuit a {
+	font-size: 16px;
+	color: #662C00;
+	background-color: #FFF9F2;
+}
+ #txtmodif table td.biocit a {
+	font-size: 16px;
+	color: #665200;
+	background-color: #FFFFF2;
+}
+ #txtmodif table td.parait a {
+	font-size: 16px;
+	color: #4D2F1A;
+	background-color: #FCF9F5;
+}
+ #txtmodif table td.bactit a {
+	font-size: 16px;
+	color: #003866;
+	background-color: #F2FAFF;
+}
+ #txtmodif table td.viroit a {
+	font-size: 16px;
+	color: #420066;
+	background-color: #FBF2FF;
+}
+ #txtmodif  table  td.parait  a:hover {
+	color: #009900
+}
+ #txtmodif table td.mycoit a {
+	font-size: 16px;
+	color: #0D6600;
+	background-color: #F4FFF2;
+}
+ #txtmodif table td.viroit a:hover {
+	color: #FF6600;
+}
+ #txtmodif table td.hemait a:hover {
+	color: #0099FF;
+}
+ #txtmodif table td.bactit a:hover {
+	color: #CC33CC;
+}
+ #txtmodif table td.biocit a:hover {
+	color: #0099FF;
+}
+ #txtmodif table td.immuit a:hover {
+	color: #0099FF;
+}
+ #txtmodif table td.mycoit a:hover {
+	color: #FF0000;
+}
+.orange {
+	color: #E67300
+}
+.rouge {
+	color: #BC0A0A
+}
+.marron {
+	color: #9C591D
+}
+.violet {
+	color: #660099
+}
+.jaune {
+	color: #BBAD00
+}
+.vert {
+	color: #006600
+}

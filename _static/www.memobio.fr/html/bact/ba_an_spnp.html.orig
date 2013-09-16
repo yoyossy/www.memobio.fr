@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Streptococcus pneumoniae : antibiogramme (Plus d'info)</title>
+
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<link href="../../css/bact.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body onload="MM_preloadImages('../../images/struc/tacco.gif')">
+<div id="accdetail">
+  <div align="center"><a href="../../index.html"><img src="../../images/struc/tacc.gif" alt="Accueil" name="Image5" width="35" height="35" id="Imageacc" onmouseover="MM_swapImage('Image5','','../../images/struc/tacco.gif',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+  <p align="center"><a href="../../index.html" class="Style99" onmouseover="MM_swapImage('Image5','','../../images/struc/tacco.gif',1)" onmouseout="MM_swapImgRestore()">Accueil</a></p>
+</div>
+<h1 align="center"><em>Streptococcus pneumoniae</em></h1>
+<h2>I)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Résistance aux  béta-lactamines</h2>
+Pneumocoque à 
+      Sensibilité Diminuée aux Pénicillines&nbsp;(PSDP)&nbsp;: résistance par 
+      modification qualitative et quantitative des PLP (PLP issues de 
+      recombinaison de l’ADN du pneumocoque avec l’ADN de streptocoques 
+      oraux). <br />
+Cette résistance s’exprime à des niveaux différents 
+selon la béta-lactamine 
+concernée. <br />
+Les PSDP sont détectés par l’utilisation de l’oxacilline&nbsp;: 
+      en cas de diamètre &lt;26mm, on doit réaliser les CMI de la pénicilline G, 
+      de l’amoxicilline, d’une céphalosporine de 3<sup>ème</sup> génération (ceftriaxone, 
+      céfotaxime), de l’antibiotique utilisé pour le traitement … <br />
+Les béta-lactamines les plus actives sur les PSDP sont l’amoxicilline, 
+la ceftriaxone, le céfotaxime et l’imipénème.
+<h2> II)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Résistance aux aminosides (gentamicine)</h2>
+      <h3> A)&nbsp;&nbsp;&nbsp;  Résistance de bas niveau</h3>
+      Résistance naturelle de bas niveau par faible 
+      efficacité du transport membranaire. Leur synergie avec les 
+      antibiotiques actifs sur la paroi des bactéries (glycopeptides et b-lactamines) est conservée.
+      <h3> B)&nbsp;&nbsp;&nbsp;  Résistance de haut niveau </h3>
+      Principalement par production d’enzymes 
+      inactivatrices. La résistance de haut niveau ne permet plus 
+      l’utilisation des aminosides même en association. <span class="Style4"><b><br />
+      Streptomycine HC</b></span><b>&nbsp;</b>: 
+      ne répond que pour la streptomycine (mutation ou ANT) <b><br />
+      <span class="Style4">Kanamycine HC</span></b>&nbsp;: 
+      répond pour la kanamycine, l’amikacine et l’isepamycine (APH(3’)-III) On peut observer l’association de ces 2 mécanismes 
+      d’action. <b><br />
+      <span class="Style4">Gentamicine HC</span>&nbsp;</b>: 
+      une résistance à la gentamicine HC confère une résistance à tous les 
+      aminosides.
+      <table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td valign="top" bgcolor="#E2EFFA"><strong>Kanamycine</strong></td>
+          <td valign="top" bgcolor="#E2EFFA"><strong>Gentamicine</strong></td>
+          <td valign="top" bgcolor="#E2EFFA"><strong>Netilmycine</strong></td>
+          <td valign="top" bgcolor="#E2EFFA"><strong>Tobramycine</strong></td>
+          <td valign="top" bgcolor="#E2EFFA"><strong>Amikacine</strong></td>
+          <td width="168" valign="top">&nbsp;</td>
+        </tr>
+        <tr>
+          <td valign="top" bgcolor="#F2FCFF"><div align="center">R</div></td>
+          <td valign="top" bgcolor="#F2FCFF"><div align="center">S</div></td>
+          <td valign="top" bgcolor="#F2FCFF"><div align="center">S</div></td>
+          <td valign="top" bgcolor="#F2FCFF"><div align="center">S</div></td>
+          <td valign="top" bgcolor="#F2FCFF"><div align="center">R</div></td>
+          <td width="168" valign="top" bgcolor="#E2EFFA"><strong>APH(3’)</strong></td>
+        </tr>
+        <tr>
+          <td valign="top" bgcolor="#F2FCFF"><div align="center">R</div></td>
+          <td valign="top" bgcolor="#F2FCFF"><div align="center">R</div></td>
+          <td valign="top" bgcolor="#F2FCFF"><div align="center">S</div></td>
+          <td valign="top" bgcolor="#F2FCFF"><div align="center">R</div></td>
+          <td valign="top" bgcolor="#F2FCFF"><div align="center">S/R</div></td>
+          <td width="168" valign="top" bgcolor="#E2EFFA"><strong>ANT(4’)</strong></td>
+        </tr>
+        <tr>
+          <td valign="top" bgcolor="#F2FCFF"><div align="center">R</div></td>
+          <td valign="top" bgcolor="#F2FCFF"><div align="center">R</div></td>
+          <td valign="top" bgcolor="#F2FCFF"><div align="center">R</div></td>
+          <td valign="top" bgcolor="#F2FCFF"><div align="center">R</div></td>
+          <td valign="top" bgcolor="#F2FCFF"><div align="center">R</div></td>
+          <td width="168" valign="top" bgcolor="#E2EFFA"><strong>APH(2’’) + AAC(6’)</strong></td>
+        </tr>
+      </table>
+      <h2> III)&nbsp;&nbsp;&nbsp;&nbsp;  Résistance aux MLS (érythromycine, lincomycine, pristinamycine, 
+        télithromycine)</h2>
+      <span class="Style4"><b>- Méthylation de la 
+      cible</b>&nbsp;</span>: phénotype MLS<sub>B</sub> qui peut inductible (kétolides&nbsp;: 
+      S) ou constitutif (kétolide&nbsp;: R) <b><br />
+      <span class="Style4">- Efflux&nbsp;</span></b>: 
+      confère une résistance isolé à l’érythromycine (et par extension aux 
+      macrolides à 14 et 15 atomes&nbsp;: érythromycine, roxithromycine, 
+      clarythromycine, dirithromycine, azithromycine) En France, le phénotype de résistance le plus 
+      fréquent est le phénotype MLS<sub>B</sub> inductible.
+      <h2> IV)&nbsp;&nbsp;&nbsp;&nbsp;  Résistance aux fluoroquinolones (norfloxacine)</h2>
+      Les fluoroquinolones les plus actives sur le 
+      pneumocoque sont la moxifloxacine et la lévofloxacine (les autres 
+      fluoroquinolones sont peu actives). Une diminution de sensibilité des pneumocoques aux 
+      fluoroquinolones est détectée par l’utilisation de la norfloxacine. En 
+      cas de sensibilité diminuée, l’utilisation de fluoroquinolone ne sera 
+      envisagée qu’après réalisation des CMI de la moxifloxacine (et 
+      éventuellement de la lévofloxacine).
+</body>
+</html>

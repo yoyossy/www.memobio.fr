@@ -1,0 +1,449 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/bi_rein.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Diagostic biologique d'une insuffisance rénale chronique</title>
+<!-- InstanceEndEditable -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<META NAME='description' LANG='fr' CONTENT="Memobio est un site d'aide au diagnostic biologique, &agrave; la r&eacute;alisation et &agrave; l'interpr&eacute;tation des analyses de biologie m&eacute;dicale. Il pr&eacute;sente une multitude de tableaux, de fiches, de diagrammes, de photos et de vid&eacute;o. Ce site a fait l'objet d'un th&egrave;se de fin d'internat en biologie">
+<META NAME='keywords' LANG='fr' CONTENT="biologie, medicale, biochimie, hematologie, parasitologie, bacteriologie, virologie, mycologie, immunologie, cours, internat, fiches, photos, fiche, photo, tableau, tableaux, video">
+<META NAME='author' CONTENT="Nedelec Adrien - Biologiste">
+<META NAME='Identifier-URL' CONTENT="http://memobio.fr" />
+<link href="../../css/title.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+>
+<META NAME='revisit-after' CONTENT="10" />
+<META NAME="robots" CONTENT="Index,Follow"/>
+
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+<!--
+.Style2 {font-size: 28px}
+-->
+</style>
+<style type="text/css">
+<!--
+.Style4 {color: #0099FF}
+-->
+</style>
+<style type="text/css">
+<!--
+.Style5 {color: #006699}
+-->
+</style>
+<style type="text/css">
+<!--
+.Style6 {color: #000000}
+-->
+</style>
+<!-- InstanceEndEditable -->
+<style type="text/css">
+<!--
+.Style3 {font-size: 18px}
+-->
+</style>
+
+<link href="../../css/bioc.css" rel="stylesheet" type="text/css" />
+
+<script src="../../SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+
+</head>
+<body bgcolor="#FFFFFF" onload="MM_preloadImages('../../images/struc/tnouso.gif','../../images/struc/tmailo.gif','../../images/struc/tplano.gif','../../images/struc/tacco.gif','../../images/struc/tcopo.gif','../../images/struc/tlego.gif','../../images/struc/tenso.gif','../../images/struc/tlieno.gif','../../images/struc/tbaso.gif','../../images/struc/tnewo.gif','../../images/struc/tsjbmo.gif','../../images/struc/tdonso.gif')">
+<div id="menu">
+  <ul id="MenuBar1" class="MenuBarHorizontal">
+    <li><a class="MenuBarItemSubmenu" href="bi_acc.html">Biochimie</a>
+<ul>
+          <li class="Bioch"><a href="bi_diab.html">Diab&egrave;te sucr&eacute;</a></li>
+        <li class="Bioch"><a href="bi_dysl.html">Dyslipid&eacute;mie</a></li>
+          <li class="Bioch"><a href="bi_rein.html">Pathologies r&eacute;nales</a></li>
+          <li class="Bioch"><a href="bi_foie.html">Pathologies h&eacute;patiques</a></li>
+          <li class="Bioch"><a href="bi_panc.html">Pancr&eacute;atite aigu&euml;</a></li>
+          <li class="Bioch"><a href="bi_coeu.html">Marqueurs cardiaques</a></li>
+          <li class="Bioch"><a href="bi_hydr.html">Troubles hydro-&eacute;lectrolytiques</a></li>
+          <li class="Bioch"><a href="bi_acba.html">Troubles acido-basiques</a></li>
+          <li class="Bioch"><a href="bi_phca.html">M&eacute;tabolisme phospho-calcique</a></li>
+          <li class="Bioch"><a href="bi_thyr.html">Pathologies thyro&iuml;diennes</a></li>
+          <li class="Bioch"><a href="bi_surr.html">Pathologies surr&eacute;naliennes</a></li>
+          <li class="Bioch"><a href="bi_tumo.html">Marqueurs tumoraux</a></li>
+          <li class="Bioch"><a href="bi_uric.html">Hyperuric&eacute;mies</a></li>
+      </ul>
+    </li>
+    <li><a href="../hema/he_acc.html" class="MenuBarItemSubmenu">H&eacute;matologie</a>
+      <ul>
+        <li class="Hemato"><a href="../hema/he_anem.html">An&eacute;mies</a></li>
+        <li class="Hemato"><a href="../hema/he_thro.html">Thrombop&eacute;nies</a></li>
+        <li class="Hemato"><a href="../hema/he_mono.html">Syndromes mononucl&eacute;osiques</a></li>
+        <li class="Hemato"><a href="../hema/he_slpc.html">Syndromes lymphoprolif&eacute;ratifs </a></li>
+        <li class="Hemato"><a href="../hema/he_smpc.html">Syndromes my&eacute;loprolif&eacute;ratifs</a></li>
+        <li class="Hemato"><a href="../hema/he_aigu.html">Leuc&eacute;mies aigu&euml;s</a></li>
+        <li class="Hemato"><a href="../hema/he_smd.html">Syndromes my&eacute;lodysplasiques</a></li>
+        <li class="Hemato"><a href="../hema/he_stas.html">H&eacute;mostase</a></li>
+        <li class="Hemato"><a href="../hema/he_immu.html">Immuno-h&eacute;matologie</a></li>
+        <li class="Hemato"><a href="../hema/he_phot.html">Photos</a></li>
+      </ul>
+    </li>
+    <li><a href="../immu/im_acc.html" class="MenuBarItemSubmenu">Immunologie</a>
+      <ul>
+        <li><a href="../immu/im_alle.html">Allergologie</a></li>
+        <li><a href="../immu/im_auto.html">Auto-immunit&eacute;</a></li>
+        <li><a href="../immu/im_elec.html">Electrophor&egrave;se</a></li>
+        <li><a href="../immu/im_infl.html">Inflammation</a></li>
+      </ul>
+    </li>
+    <li><a href="../bact/ba_acc.html" class="MenuBarItemSubmenu">Bact&eacute;riologie</a>
+      <ul>
+        <li class="Bacterio"><a href="../bact/ba_bact.html">Par bact&eacute;rie</a></li>
+        <li class="Bacterio"><a href="../bact/ba_prel.html">Par pr&eacute;l&egrave;vement</a></li>
+        <li class="Bacterio"><a href="../bact/ba_atb.html">Antibiogramme</a></li>
+        <li class="Bacterio"><a href="../bact/ba_path.html">Pathologies</a></li>
+        <li class="Bacterio"><a href="../bact/ba_tech.html">Techniques de laboratoire</a></li>
+        <li class="Bacterio"><a href="../bact/ba_traitement.html">Prise en charge thérapeutique</a></li>
+      </ul>
+    </li>
+    <li class="Styleviro"><a href="../viro/vi_acc.html" class="MenuBarItemSubmenu">Virologie</a>
+      <ul>
+        <li class="Viro"><a href="../viro/vi_vih.html">VIH</a> </li>
+        <li class="Viro"><a href="../viro/vi_vhc.html">VHC</a></li>
+        <li class="Viro"><a href="../viro/vi_vhb.html">VHB</a></li>
+        <li class="Viro"><a href="../viro/vi_vha.html">VHA</a></li>
+        <li class="Viro"><a href="../viro/vi_ebv.html">EBV</a></li>
+        <li class="Viro"><a href="../viro/vi_cmv.html">CMV</a></li>
+        <li class="Viro"><a href="../viro/vi_hsv.html">HSV</a></li>
+      </ul>
+    </li>
+  <li class="Stylepara"><a class="MenuBarItemSubmenu" href="../para/pa_acc.html">Parasitologie - Mycologie</a>
+    <ul>
+          <li class="Parasito"><a href="../para/pa_tepr.html">Techniques de pr&eacute;l&egrave;vement</a></li>  
+          <li class="Parasito"><a href="../para/pa_micro.html">Diagnostic direct (parasito)</a> </li>
+          <li class="Parasito"><a href="../para/my_micro.html">Diagnostic direct (myco)</a></li>
+        <li class="Parasito"><a href="../para/pa_sero.html">S&eacute;rologies</a></li>
+          <li class="Parasito"><a href="../para/pa_tech.html">Techniques de laboratoire</a></li>
+          <li class="Parasito"><a href="../para/pa_prel.html">Etiologies par pr&eacute;l&egrave;vement</a></li>
+          <li class="Parasito"><a href="../para/pa_clin.html">Etiologies par atteinte clinique</a></li>
+          <li class="Parasito"><a href="../para/pa_rgeo.html">R&eacute;partition g&eacute;ographique</a></li>
+          <li class="Parasito"><a href="../para/pa_palu.html">Paludisme</a></li>
+          <li class="Parasito"><a href="../para/pa_toxo.html">Toxoplasmose</a></li>
+          <li class="Parasito"><a href="../para/pa_cycle.html">Cycles parasitaires</a></li>
+        <li class="Parasito"><a href="../para/pa_fich.html">Fiches par agent pathog&egrave;ne</a></li>
+  </ul>
+    </li>
+  </ul>
+</div>
+<div id="titre">
+  <div id="contenu">
+    <div class="construc" id="construc">
+      <div align="left">
+        <table width="264" height="53" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="68"><div align="center"><a href="../../enseig.html"><img src="../../images/struc/tens.gif" alt="Enseignement" name="Image7" width="35" height="35" id="Image7" onmouseover="MM_swapImage('Image7','','../../images/struc/tenso.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
+                <p><a href="../../enseig.html" class="Style99">Enseignement</a></p>
+            </div></td>
+            <td width="49"><div align="center"><a href="../../liens.html"><img src="../../images/struc/tlien.gif" alt="liens" name="Image6" width="35" height="35" id="Image6" onmouseover="MM_swapImage('Image6','','../../images/struc/tlieno.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
+            </div>
+            <p align="center"><a href="../../liens.html" class="Style99" onmouseover="MM_swapImage('Image6','','../../images/struc/tlieno.gif',1)" onmouseout="MM_swapImgRestore()">Liens</a>.</p></td>
+            <td width="87" onmouseover="MM_swapImage('image8','','../../images/struc/tbaso.gif',1)" onmouseout="MM_swapImgRestore()"><div align="center"><a href="../../base.html"><img src="../../images/struc/tbas.gif" alt="base de données" name="image8" width="35" height="35" id="image8" onmouseover="MM_swapImage('image8','','../../images/struc/tbaso.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
+            </div>
+              <p align="center"><a href="../../base.html" class="Style99">Base de données</a></p>            </td>
+            <td width="53"><div align="center"><a href="../../formulaire.html"><img src="../../images/struc/tnew.gif" alt="news" name="image9" width="35" height="35" id=image9 onmouseover="MM_swapImage('image9','','../../images/struc/tnewo.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
+            </div>
+            <p align="center"><a href="../../formulaire.html" class="Style99" onmouseover="MM_swapImage('image9','','../../images/struc/tnewo.gif',1)" onmouseout="MM_swapImgRestore()">Newsletter</a></p></td>
+          </tr>
+        </table>
+      </div>
+    </div>
+  </div>
+  <div id="touchacc">
+    <table width="265" cellspacing="0" cellpadding="0">
+      
+      <tr>
+        <td width="69"><div align="center">
+          <div id="sjbm"><a href="http://memobio.e-monsite.com"><img src="../../images/struc/prep_internat_titre_2012.png" alt="preparation concours internat 2011 - 2012" width="300" height="43" /></a></div>
+          <a href="../../index.html"><img src="../../images/struc/tacc.gif" alt="Accueil" name="Image5" width="35" height="35" id="Image5" onmouseover="MM_swapImage('Image5','','../../images/struc/tacco.gif',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+        <p align="center"><a href="../../index.html" class="Style99" onmouseover="MM_swapImage('Image5','','../../images/struc/tacco.gif',1)" onmouseout="MM_swapImgRestore()">Accueil</a></p></td>
+        <td width="69"><div align="center"><a href="../../outils/sitemap.html"><img src="../../images/struc/tplan.gif" alt="Plan du site" name="Image4" width="35" height="35" id="Image4" onmouseover="MM_swapImage('Image4','','../../images/struc/tplano.gif',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+        <p align="center"><a href="../../outils/sitemap.html" class="Style99" onmouseover="MM_swapImage('Image4','','../../images/struc/tplano.gif',1)" onmouseout="MM_swapImgRestore()">Plan du site</a>.</p></td>
+        <td width="68"><div align="center"><a href="../../copy.html"><img src="../../images/struc/tcop.gif" alt="Copyright" name="Image11" width="35" height="35" id="Image11" onmouseover="MM_swapImage('Image11','','../../images/struc/tcopo.gif',1)" onmouseout="MM_swapImgRestore()" /></a></div>          
+        <p align="center"><a href="../../copy.html" class="Style99" onmouseover="MM_swapImage('Image11','','../../images/struc/tcopo.gif',1)" onmouseout="MM_swapImgRestore()">Copyright</a>.</p></td>
+        <td width="68"><div align="center"><a href="../../sjbm.html"><img src="../../images/struc/tsjbm.gif" alt="Copyright" name="Image12" width="35" height="35" id="Image12" onmouseover="MM_swapImage('Image12','','../../images/struc/tsjbmo.gif',1)" onmouseout="MM_swapImgRestore()" /></a><br /> 
+        </div></td>
+        </td>
+      </tr>
+
+      <tr>
+        <td valign="top" ondblclick="MM_swapImage('Image3','','../../images/struc/tmailo.gif',1)"><div align="center"><a href="mailto:nedelec@memobio.fr"><img src="../../images/struc/tmail.gif" alt="Contact" name="Image3" width="35" height="35" align="top" id="Image3" onmouseover="MM_swapImage('Image3','','../../images/struc/tmailo.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
+        </div>
+          <p align="center"><a href="mailto:nedelec@memobio.fr" class="Style99" onmouseover="MM_swapImage('Image3','','../../images/struc/tmailo.gif',1)" onmouseout="MM_swapImgRestore()">Contact<br />
+      </a></p></td>
+        <td><div align="center"><a href="../../nous.html"><img src="../../images/struc/tnous.gif" alt="Qui sommes-nous ?" name="Image2" width="35" height="35" id="Image2" onmouseover="MM_swapImage('Image2','','../../images/struc/tnouso.gif',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+        <p align="center"><a href="../../nous.html" class="Style99" onmouseover="MM_swapImage('Image2','','../../images/struc/tnouso.gif',1)" onmouseout="MM_swapImgRestore()">Qui sommes</a></p>
+        <p align="center" class="stylnous"><a href="../../nous.html" class="Style99" onmouseover="MM_swapImage('Image2','','../../images/struc/tnouso.gif',1)" onmouseout="MM_swapImgRestore()">        nous </a>?</p></td>
+        <td>          <div align="center"><a href="../../legal.html"><img src="../../images/struc/tleg.gif" alt="Mentions légales" name="image6" width="35" height="35" id="image6" onmouseover="MM_swapImage('image6','','../../images/struc/tlego.gif',1)" onmouseout="MM_swapImgRestore()" /><br />
+        </a> </div>          
+        <p align="center"><a href="../../legal.html" class="Style99" onmouseover="MM_swapImage('image6','','../../images/struc/tlego.gif',1)" onmouseout="MM_swapImgRestore()">Mentions </a></p>
+        <p align="center" class="stylnous"><a href="#" class="Style99" onmouseover="MM_swapImage('image6','','../../images/struc/tlego.gif',1)" onmouseout="MM_swapImgRestore()">légales</a>.</p></td>
+        <td><div align="center"><a href="../../dons.html"><img src="../../images/struc/tdons.gif" alt="Copyright" name="Image1" width="35" height="35" id="Image1" onmouseover="MM_swapImage('Image1','','../../images/struc/tdonso.gif',1)" onmouseout="MM_swapImgRestore()" /></a>
+        </div>
+        <p align="center"><a href="../../copy.html" class="Style99" onmouseover="MM_swapImage('Image1','','../../images/struc/tdonso.gif',1)" onmouseout="MM_swapImgRestore()">Donations</a>.</p></td></td>
+      </tr>
+    </table>
+    <p>&nbsp;</p>
+  </div>
+<a href="../../index.html"><img src="../../images/bact/memobio.jpg" alt="MemoBio" width="467" height="120" hspace="250" /></a>
+<div id="apDiv1">
+<form name="SearchForm"  action="sessearch.php">
+<span class="b_normal"><style type='text/css'>
+<!--
+.b_normal {font-size:12px;color:#003063;font-family:Verdana,Arial,Helvetica}
+-->
+</style>Recherche : 
+<input type="text" name="q" size="20">
+<input type="submit" value="Go">
+<br>
+</span>
+</form>
+</div>
+</div>
+
+<div id="contenu"></div>
+  <div id="menulat"></div>
+    <div id="menumodif">
+      <div align="center" class="Stylemenutit"><a href="bi_rein.html" class="Stylemenutit">Bilan rénal </a> </div>
+      <p><a href="bi_re_ph.html">Physiologie</a></p>
+      <p class="Style3">Insuffisance rénale chronique</p>
+        <ul>
+          <li><a href="bi_re_irc.html">Définition</a></li>
+          <li><a href="bi_re_di.html">Diagnostic biologique</a></li>
+          <li><a href="bi_re_dfg.html">Conduite à tenir devant un DFG &lt; 60ml/min</a></li>
+          <li><a href="bi_re_ptt.html">Prise en charge et traitement</a></li>
+          <li><a href="bi_re_ore.html">Ostéodystrophie rénale</a></li>
+          <li></li>
+        </ul>
+      <p class="Style3">Syndrome néphrotique</p>
+        <ul>
+          <li><a href="bi_re_snp.html">Définition et physiopathologie</a></li>
+          <li><a href="bi_re_snd.html">Diagnostic biologique</a></li>
+        </ul>
+    </div>
+
+  <div id="texte"></div>
+<!-- InstanceBeginEditable name="EditRegion1" -->
+    <div id="txtmodif">
+      <h1>Insuffisance rénale chronique : <span class="Style2">diagnostic biologique</span></h1>
+      <h2>A)&nbsp;But </h2>
+      <p>Diagnostiquer le plus rapidement l’IRC pour instaurer 
+        des traitements permettant d’éviter son aggravation. <br />
+        Il faut donc faire un dépistage systématique chez tous 
+        les sujets à risque d’atteinte rénale. </p>
+      <h2>B)&nbsp;Dépistage 
+        d’une maladie rénale chronique </h2>
+      <table border="1" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="152" valign="top" bgcolor="#FFFFCC"> Profil clinique</td>
+          <td width="588" valign="top" bgcolor="#FFFFDB">Dépistage d’une 
+            maladie rénale chronique nécessaire en cas <br />
+            -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HTA <br />
+            -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Diabète <br />
+            -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Age 
+            &gt;60ans <br />
+            -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Histoire familiale <br />
+            -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Infections urinaires à répétition <br />
+            -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exposition à certains toxiques <br />
+            La liste 
+            exhaustive selon les recommandations de l’HAS est présente <a href="bi_re_dep.html" target="_blank">ici</a>.</td>
+        </tr>
+        <tr>
+          <td width="152" valign="top" bgcolor="#FFE4C3"> Diagnostic 
+            biologique </td>
+          <td width="588" valign="top" bgcolor="#FFF0DB">- Clairance de 
+            la créatinine <br />
+            - Protéinurie <br />
+            - Leucocyturie <br />
+            - Hématurie <br />
+            - 
+            Microalbuminurie</td>
+        </tr>
+      </table>
+      <h2>C) Clairance de la créatinine </h2>
+              Le 
+    débit de filtration glomérulaire est classiquement estimé par la clairance 
+    de la créatinine. <br />
+    Pour 
+    une meilleure interprétation, elle doit être rapportée à la surface 
+    corporelle&nbsp;: Sc = [Poids(kg) x Taille(cm) / 3600]<sup>0,5</sup> ou 
+    estimation en utilisant le <a href="bi_re_no.html">nomogramme d'évaluation de la surface corporelle.</a><br />
+    Le DFG est alors normalisé par la 
+    formule suivante&nbsp;: DFG x 1,73 / Sc
+    <h3>1)&nbsp;&nbsp; Clairance de la créatinine calculée</h3>
+    <h4> a) Formule de Cockroft et Gault </h4>
+    <p>        <span class="Style4 Style5">Clairance&nbsp;créatinine = (140 - âge) x Poids&nbsp; x K / créatininémie </span>(µmol/l) <br />
+      <span class="Style5">K</span> = 
+        &nbsp;1,24  pour 
+        l’homme ou  1,04 pour la femme <br />
+        <span class="Style5">Poids</span> en kg </p>
+    <p><strong>Limites</strong>&nbsp;:  <br />
+        <span class="Style5">DFG 
+       &lt; 30ml/min/1,73m2&nbsp;</span>: on peut alors utiliser la formule MDRD (ou faire la 
+        moyenne entre la clairance de la créatinine (surestimée) et la clairance de 
+        l’urée (sous-estimée à cause d’une réabsorption tubulaire de l’urée)).        </p>
+    <h4>b)  Formule MDRD 
+        (Modification of the Diet in Renal Disease) </h4>
+      <p><span class="Style5">Clairance créatinine = 186.3 × (Créatininémie<span class="Style6"> (µmol/L)</span> / 88.4)<sup>-1.154</sup> × Âge<sup>-0.203</sup></span> </p>
+      <p>A 
+        multiplier par  <span class="Style5">0.742 </span>pour une femme et par<span class="Style5"> 1.21 </span>pour un sujet d’origine africaine. <br />
+        Cette formule est préférable pour le sujet âgé et présente l’avantage de ne 
+      pas tenir compte du poids du patient&nbsp;  </p>
+      <h3>2)&nbsp;&nbsp;&nbsp; Clairance de la créatinine mesurée  </h3>
+      <p>Il est préférable de mesurer la 
+        clairance de la créatinine dans les cas suivants&nbsp;:<br />
+        &nbsp;  &nbsp;&nbsp; - Age &gt; 75ans<br />  
+        &nbsp;&nbsp;&nbsp;&nbsp; - quand la production endogène de créatinine peut être modifiée&nbsp;:<br />  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - dénutrition sévère, obésité (IMC &gt; 30), nutrition parentérale 
+        prolongée<br />  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - augmentation ou diminution de la masse musculaire (paraplégie, 
+        tétraplégie, amputation, maladie musculaire, corticoïdes …)<br /> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - insuffisance hépato-cellulaire sévère.<br /> 
+        &nbsp;&nbsp;&nbsp;&nbsp; - pour confirmer le diagnostic d’une insuffisance rénale en cas de 
+        doute<br /> 
+        &nbsp;&nbsp;&nbsp;&nbsp; - pour préciser le degré de l’insuffisance rénale<br /> 
+        &nbsp;&nbsp;&nbsp;&nbsp; - dans le cadre de suivi de l’administration au long cours de 
+        médicaments potentiellement néphrotoxiques </p>
+      <p class="Style5">Clairance de la créatinine&nbsp;<span class="Style6">(ml/min)</span> = (créatinine urinaire / créatinine 
+        plasmatique) x débit urinaire <span class="Style6">(ml/min) </span></p>
+      <p>Cette mesure nécessite le recueil des urines de 24H&nbsp; (le patient vide sa vessie à une heure précise&nbsp;(ex&nbsp;: 7H) puis 
+        recueille ses urines jusqu’au lendemain 7H) </p>
+      <h3>3)&nbsp;&nbsp; 
+        Limites&nbsp;de la clairance de la créatinine  </h3>
+      <p>        Le DFG 
+        est surestimée car la créatinine est légèrement sécrétée au niveau 
+        tubulaire&nbsp;(7-10% pour des valeurs de DFG normales, jusqu’à 100% pour des 
+        valeurs basses&nbsp;: augmentation du phénomène de sécrétion) <br />
+        Le 
+        taux de créatinine doit être interprété en fonction de la masse musculaire, 
+        en fonction du volume de distribution (oedèmes, ascite) <br />
+        Certains médicaments (cimétidine, triméthoprime) inhibent la sécrétion 
+        tubulaire de la créatinine&nbsp;: on a donc une augmentation des taux sanguins 
+        sans modification du DFG. </p>
+      <h3>4)&nbsp;&nbsp; Interprétation </h3>
+      <table width="635" border="1" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="372" bgcolor="#FFE4C3"><strong> Stade</strong></td>
+          <td width="380" bgcolor="#FFFFCC"><strong> Débit de filtration glomérulaire (ml/min/1,73m2)</strong></td>
+        </tr>
+        <tr>
+          <td width="372" valign="top" bgcolor="#FFF0DB"> Maladie rénale chronique à DFG &gt; 60ml/min </td>
+          <td width="380" bgcolor="#FFFFDB"><div align="center">&gt; 60</div></td>
+        </tr>
+        <tr>
+          <td width="372" valign="top" bgcolor="#FFF0DB"> Insuffisance rénale modérée</td>
+          <td width="380" bgcolor="#FFFFDB"> <div align="center">30-59</div></td>
+        </tr>
+        <tr>
+          <td width="372" valign="top" bgcolor="#FFF0DB"> Insuffisance rénale sévère</td>
+          <td width="380" bgcolor="#FFFFDB"> <div align="center">15-29</div></td>
+        </tr>
+        <tr>
+          <td width="372" valign="top" bgcolor="#FFF0DB"> Insuffisance rénale terminale</td>
+          <td width="380" bgcolor="#FFFFDB"><div align="center">&lt; 15</div></td>
+        </tr>
+      </table>
+      <h2>D)&nbsp;Marqueurs d’atteinte rénale  </h2>
+      <h3>1)&nbsp;&nbsp; Protéinurie et microalbuminurie</h3>
+      <p> La recherche de protéinurie par 
+        bandelette urinaire est recommandée<br /> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - chez le diabétique&nbsp;: 1 fois/an à compléter par une microalbuminurie 
+        1-2 fois/an si la protéinurie est négative. Le dosage de la microalbumine doit 
+        être réalisé à 3 reprises et il faut au moins 2 résultats positifs pour 
+        diagnostiquer une microalbuminurie à caractère permanent.<br /> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - chez l’hypertendu&nbsp;: 1 fois tous les 3ans si la 1<sup>ère</sup> recherche est négative<br /> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - recherche de protéinurie et d’hématurie en cas d’œdème, de 
+        suspicion de gammapathie monoclonale, de suivi de maladie inflammatoire 
+        chronique, de découverte d’un DFG &lt; 90ml/min/1,73m<sup>2</sup> La recherche par bandelette est à 
+        compléter par un dosage de la protéinurie des 24H en cas de positivité. </p>
+      <h3>2)&nbsp;&nbsp;&nbsp; Hématurie </h3>
+      <p>Recherchée par bandelette ou cytologie 
+        urinaire quantitative <br />
+        La présence de cylindres hématiques 
+        affirme l’origine glomérulaire de l’hématurie (glomérulonéphrite aiguë ou 
+        rapidement progressive). <br />
+        Bandelette urinaire positive pour l&#39;hématurie mais sans érythrocyte à la 
+&nbsp;:<br />
+                - présence de myoglobine évoquant une rhabdomyolyse <br />
+        - présence d&#39;hémoglobine suggérant une hémolyse intravasculaire&nbsp; </p>
+      <h3>3)&nbsp;&nbsp; Leucocyturie </h3>
+      <p>Recherchée par bandelette et confirmée 
+        par cytologie urinaire quantitative <br />
+        La présence de cylindres leucocytaires 
+        oriente vers une atteinte interstitielle (surtout si elle est associée à une 
+        protéinurie de faible taux) </p>
+      <h3>4)&nbsp;&nbsp; Interprétation </h3>
+      <table border="1" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="171" bgcolor="#FFE4C3"> Protéinurie</td>
+        <td width="595" bgcolor="#FFFFCC">&gt; 300mg/24H ou rapport protéinurie/créatininurie &gt;200mg/g</td>
+      </tr>
+      <tr>
+        <td width="171" bgcolor="#FFE4C3"> Hématurie</td>
+        <td width="595" bgcolor="#FFFFCC">&gt; 10/mm3 (10&nbsp;000/ml)</td>
+      </tr>
+      <tr>
+        <td width="171" bgcolor="#FFE4C3"> Leucocyturie</td>
+        <td width="595" bgcolor="#FFFFCC">&gt; 10/mm3 (10&nbsp;000/ml)</td>
+      </tr>
+      <tr>
+        <td width="171" bgcolor="#FFE4C3"> Microalbuminurie</td>
+        <td width="595" bgcolor="#FFFFCC"> 20-200µg/min ou 30-300mg/24H ou albuminurie/créatininurie &gt;2mg/mmol</td>
+      </tr>
+      <tr>
+        <td width="171" bgcolor="#FFE4C3"> Morphologie</td>
+        <td width="595" bgcolor="#FFFFCC"> Asymétrie de taille, contours bosselés, reins de petites tailles ou 
+          gros reins polykystiques, néphrocalcinose, calcul, hydronéphrose</td>
+      </tr>
+    </table>
+      <p>&nbsp;</p>
+    </div>
+  <!-- InstanceEndEditable -->
+</div>
+
+<div class="suivi"><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5556253-1");
+pageTracker._trackPageview();
+</script>
+</div>
+<script type="text/javascript">
+<!--
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"../SpryAssets/SpryMenuBarDownHover.gif", imgRight:"../SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+</script>
+</body>
+<!-- InstanceEnd --></html>

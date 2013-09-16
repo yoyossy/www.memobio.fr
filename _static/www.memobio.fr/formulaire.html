@@ -1,0 +1,136 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<META http-equiv="Content-Type" Content="text/html; charset=utf-8">
+<style type="text/css">
+<!--
+#apDiv1 {
+	position:absolute;
+	width:802px;
+	height:37px;
+	z-index:1;
+}
+#newsban {
+	position: absolute;
+	height: 120px;
+	width: 800px;
+	left: 0px;
+	top: 0px;
+}
+#apDiv2 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:2;
+}
+.Style1 {
+	color: #0000FF;
+	font-size: 18px;
+}
+#apDiv3 {
+	position:absolute;
+	width:800px;
+	height:405px;
+	z-index:1;
+	left: 0px;
+	top: 125px;
+	background-color: #F4F4F4;
+	border: 1px dashed #000000;
+}
+-->
+</style>
+<link href="css/acc.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.Style2 {
+	font-size: 36px;
+	color: #000000;
+}
+-->
+</style>
+<head>
+<title>Formulaire d'inscription</title>
+</head>
+
+<body>
+
+<div id="newsban"><img src="images/struc/newsletter.jpg" alt="newsletter" width="800" height="120" /></div>
+<h1>&nbsp;</h1>
+<p>&nbsp;</p>
+<div id="apDiv3">
+<p><span class="Style1 Style2">Formulaire d'inscription à la Newsletter MemoBio</span></p>
+<form method="post" action="http://admin.infomaniak.ch/mail/newsletter/user/process.php?sExternalid=ca11c0152163d5937001932d290c15cf" name="signup">
+<fieldset>
+<h2>
+  <legend>Inscription (gratuite)</legend>
+</h2>
+<p>(Seuls les items en gras sont obligatoires) </p>
+<!--	Email field must be named "Email" -->
+<div>
+<label for="email"><strong>Votre Email :</strong></label>
+<input type="text" name="Email" id="email" maxlength="60" />
+</div>
+
+<!--	BEGIN INPUT FOR REQUIRED FIELD "Nom" -->
+<div>
+<label for="field4"><strong>Nom :</strong></label>
+<input type="text" name="d[4]" id="field4" maxlength="60" />
+</div>
+
+<!--	BEGIN INPUT FOR REQUIRED FIELD "Prénom" -->
+<div>
+<label for="field5"><strong>Prénom :</strong></label>
+<input type="text" name="d[5]" id="field5" maxlength="60" />
+</div>
+
+<!--	BEGIN INPUT FOR REQUIRED FIELD "Fonction" -->
+<div>
+<label for="field2"><strong>Fonction :</strong></label>
+
+<select name="d[2]" id="field2">
+<option>Please choose...</option>
+<option value="Interne en Biologie Médicale"> Interne en Biologie Médicale</option>
+<option value="Interne en Pharmacie (hors filière BM)"> Interne en Pharmacie (hors filière BM)</option>
+<option value="Interne en Médecine (hors filière BM)"> Interne en Médecine (hors filière BM)</option>
+<option value="Technicien de laboratoire"> Technicien de laboratoire</option>
+<option value="Autre profession médicale"> Autre profession médicale</option>
+<option value="Autre profession"> Autre profession</option>
+<option value="Biologiste de ville"> Biologiste de ville</option>
+<option value="Biologiste hospitalier"> Biologiste hospitalier</option>
+<option value="Etudiant en Pharmacie"> Etudiant en Pharmacie</option>
+<option value="Etudiant en Médecine"> Etudiant en Médecine</option>
+</select>
+</div>
+
+<!--	BEGIN INPUT FOR FIELD "Spécialité" -->
+<div>
+<label for="field3">Merci de préciser votre spécialité :</label>
+<input type="text" name="d[3]" id="field3" maxlength="60" />
+</div>
+
+<!--	BEGIN INPUT FOR REQUIRED FIELD "Participation" -->
+<div>
+<label for="field6"><strong>Souhaitez vous participer à l'amélioration de ce site </strong>(et recevoir des propositions de projets)<strong> :</strong></label>
+
+<select name="d[6]" id="field6">
+<option>Choix...</option>
+<option value="Oui"> Oui</option>
+<option value="Non"> Non</option>
+</select>
+</div>
+
+</fieldset>
+
+<div id="buttons">
+	  
+<input type="hidden" name="pommo_signup" value="true" />
+<input type="submit" value="S'abonner" />
+
+</div>
+
+</form>
+
+<div id="apDiv1">Attention, vous allez recevoir un mail de validation de votre inscription : vérifiez que MemoBio ne termine pas dans votre courrier indésirable !!</div>
+</div>
+</body>
+</html>

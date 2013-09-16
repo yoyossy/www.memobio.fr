@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Physiopathologie de l'insuffisance hépatique</title>
+<link href="../../css/bioc.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+#apDiv1 {
+	position:absolute;
+	width:112px;
+	height:40px;
+	z-index:1;
+	left: 1px;
+	top: 4px;
+}
+-->
+</style>
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body onload="MM_preloadImages('../../images/struc/tacco.gif')">
+<h1>Physiopathologie de l'insuffisance hépatique</h1>
+<p><img src="../../images/bioc/ins_hep.jpg" alt="Physiopathologie de l'insuffisance hépatique" width="675" height="483" /></p>
+<div id="accdetail">
+  <div align="center"><a href="../../index.html"><img src="../../images/struc/tacc.gif" alt="Accueil" name="Image5" width="35" height="35" id="Imageacc" onmouseover="MM_swapImage('Image5','','../../images/struc/tacco.gif',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+  <p align="center"><a href="../index.html" class="Style99" onmouseover="MM_swapImage('Image5','','../../images/struc/tacco.gif',1)" onmouseout="MM_swapImgRestore()">Accueil</a></p>
+</div>
+<p>En cas d’insuffisance hépatique aiguë, toutes les 
+fonctions du foie sont défaillantes. </p>
+<h2><b> I) Fonction de synthèse</b></h2>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; - la diminution des <b>protéines totales</b> et de l’<b>albumine</b> sont responsables d’une diminution de la pression oncotique et donc d’une 
+    fuite liquidienne du milieu vasculaire vers le milieu extra-cellulaire&nbsp;: 
+    formation d’ascite, d’oedèmes … <br />
+  La diminution de la pression artérielle, l’activation 
+  de systèmes endogènes vasoactifs … sont responsables d’une insuffisance 
+  rénale aiguë fonctionnelle (syndrome hépato-rénal)<br /> 
+  &nbsp;&nbsp;&nbsp;&nbsp; - la diminution de synthèse des <b>facteurs de la coagulation&nbsp;</b>entraîne 
+    une diminution du TP et un syndrome hémorragique (le facteur V est le 
+    facteur de la coagulation le plus utilisé pour explorer l’intégrité de la 
+    fonction hépatique)<br /> 
+  &nbsp;&nbsp;&nbsp;&nbsp; - la diminution des taux de <b> cholestérol </b>pourrait expliquer 
+    l’hypogonadisme associé à l’insuffisance hépatique (le cholestérol est le 
+précurseur de la synthèse des hormones sexuelles au niveau des surrénales) </p>
+<h2><b>II) Régulation de la glycémie</b>&nbsp;</h2>
+<p> Dans les stades 
+sévères d’insuffisance hépatique, on observe un défaut de régulation de la <b>glycémie</b> provoquant une hypoglycémie. </p>
+<h2><b>III) Fonction d’épuration</b> </h2>
+<p>Les fonctions amines apportées par les protéines ne 
+  peuvent plus être transformées en <b>urée</b>. <br />
+  Il en résulte une 
+  augmentation de l’<b>ammoniémie</b> pouvant être responsable d’une 
+  encéphalopathie hépatique<br />
+</p>
+<h2><b>IV) Fonction de métabolisation</b> </h2>
+<p>Il est nécessaire d’adapter les posologies des 
+    médicaments métabolisés par le foie chez les sujets insuffisants hépatiques. <br />
+  Il convient d’éviter l’utilisation de médicaments 
+hépatotoxiques. </p>
+<h2><b>V) Fonction de sécrétion biliaire</b></h2>
+<p>Dans les formes graves d’insuffisance hépatique, on observe un syndrome 
+  cholestatique&nbsp;: cf <a href="bi_he_ch.html">syndrome cholestatique</a>.
+  &nbsp;
+&nbsp; </span></p>
+</body>
+</html>

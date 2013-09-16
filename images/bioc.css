@@ -1,0 +1,268 @@
+@charset "utf-8";
+ #txtmodif h1 {
+	font-size: 36px;
+	font-weight: normal;
+	color: #666600;
+	text-align: center;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+}
+.Style1 {
+	font-size: 20px;
+	color: #666633;
+	font-weight: bold;
+	text-align: center;
+}
+.Style2 {
+	font-size: 24px;
+	color: #666600;
+	font-weight: bold;
+}
+ #txtmodif h2 {
+	font-size: 24px;
+	font-weight: bold;
+	color: #666600;
+	margin: 0px;
+	padding-top: 15px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+ #txtmodif h3 {
+	font-size: 20px;
+	font-weight: bold;
+	color: #666600;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 40px;
+}
+ #txtmodif h4 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #666600;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 80px;
+}
+ #txtmodif p {
+	font-size: 16px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+}
+#menumodif p {
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding: 0px;
+	font-size: 18px;
+}
+ #menumodif ul li a {
+	font-size: 16px;
+	color: #666600;
+	text-decoration: none;
+}
+ #menumodif p a {
+	font-size: 18px;
+	color: #666600;
+	text-decoration: none;
+}
+ #menumodif ul li a:hover {
+	font-size: 16px;
+	color: #0099FF;
+	text-decoration: none;
+}
+ #menumodif p a:hover {
+	font-size: 18px;
+	color: #0099FF;
+	text-decoration: none;
+}
+ #menumodif  ul li ul {
+	font-size: 16px;
+	padding-left: 10px;
+}
+#menulat {
+	position:absolute;
+	width:200px;
+	height:511px;
+	z-index:50;
+	left: 1px;
+	top: 156px;
+	background-color: #FAFBBB;
+	background-image: url(bg_menu.jpg);
+	background-repeat: no-repeat;
+	background-position: top;
+}
+#texte {
+	position:absolute;
+	width:775px;
+	height:600px;
+	z-index:1;
+	left: 215px;
+	top: 5px;
+}
+#menumodif {
+	position:absolute;
+	width:200px;
+	height:378px;
+	z-index:50;
+	left: 3px;
+	top: 157px;
+}
+#txtmodif {
+	position:absolute;
+	width:775px;
+	height:600px;
+	z-index:10;
+	left: 214px;
+	top: 159px;
+}
+ #menumodif .Style1 {
+	margin-top: 3px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+ #menumodif ul {
+	font-size: 18px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	list-style-position: inside;
+	list-style-type: none;
+	padding: 0px;
+}
+h1 {
+	font-size: 36px;
+	font-weight: normal;
+	color: #3A3901;
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+h1 {
+	font-size: 36px;
+	font-weight: normal;
+	color: #666600;
+	text-align: center;
+	padding: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+}
+h2 {
+	font-size: 24px;
+	font-weight: bold;
+	color: #666600;
+	margin: 0px;
+	padding-top: 15px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+h3 {
+	font-size: 20px;
+	font-weight: bold;
+	color: #666600;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 40px;
+}
+h4 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #666600;
+	margin-top: 15px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 80px;
+}
+p {
+	font-size: 16px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+}
+.Style4 {
+	font-size: 16px;
+	color: #666600;
+	font-weight: bold;
+}
+.tablaccitem {
+	color: #666600;
+	background-color: #FFFDEA;
+	text-decoration: none;
+}
+ #txtmodif .tablaccitem:hover {
+	color: #3399FF;
+}
+
+.tablacctit {
+	font-size: 18px;
+	color: #666600;
+	font-weight: bold;
+	text-align: center;
+	background-color: #FFFCC6;
+	text-decoration: none;
+}
+ #txtmodif   a.tablacctit:hover {
+	color: #3399FF;
+}
+.Style99     {
+	color: #000000;
+	text-decoration: none;
+	font-size: 12px;
+}
+a.Style99:hover     {
+	color: #0099CC;
+	text-decoration: none;
+}
+#accdetail {
+	position:absolute;
+	width:54px;
+	height:62px;
+	z-index:1;
+	left: 1px;
+	top: 2px;
+}
+#accdetail #Imageacc {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
+#accdetail p {
+	margin-top: -5px;
+}
+.titfichbioc {
+	background-color: #FEFFE8;
+	text-align: center;
+}
+
+.Stylemenutit {
+	font-size: 18px;
+	color: #666633;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	padding-top: 3px;
+}
+
+ #menumodif a:hover {
+	color: #3399FF;
+	text-decoration: none;
+}
+#txtmodif {
+	z-index: 10;
+}

@@ -1,0 +1,372 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Infection urinaire (Plus d'info)</title>
+<link href="../../css/bact.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+#apDiv1 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:1;
+	left: 6px;
+	top: 8px;
+}
+.Style101 {
+	color: #000080;
+	font-weight: bold;
+}
+.Style102 {
+	color: #004000;
+	font-weight: bold;
+}
+.Style103 {
+	color: #800080;
+	font-weight: bold;
+}
+.Style104 {
+	color: #0000A0;
+	font-weight: bold;
+}
+-->
+</style>
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body onload="MM_preloadImages('../../images/struc/tacco.gif')">
+<div id="accdetail">
+  <div align="center"><a href="../../index.html"><img src="../../images/struc/tacc.gif" alt="Accueil" name="Image5" width="35" height="35" id="Imageacc" onmouseover="MM_swapImage('Image5','','../../images/struc/tacco.gif',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+  <p align="center"><a href="../../index.html" class="Style99" onmouseover="MM_swapImage('Image5','','../../images/struc/tacco.gif',1)" onmouseout="MM_swapImgRestore()">Accueil</a></p>
+</div>
+<h1><b class="h1">Infection urinaire</b> &nbsp;</h1>
+<h2><b>I) </b> &nbsp;<b>&nbsp;&nbsp;&nbsp; 
+  Quand réaliser une ECBU&nbsp;?</b></h2>
+<p>&nbsp;</p>
+<table width="860" border="1" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="145" valign="top">&nbsp;</td>
+    <td width="350" valign="top" bgcolor="#E5D5FF"><div align="center" class="Style103"> ECBU facultative</div></td>
+    <td width="351" valign="top" bgcolor="#BFD9FF"><div align="center" class="Style101"> ECBU indispensable</div></td>
+  </tr>
+  <tr>
+    <td width="145" valign="top" bgcolor="#EEEEF6"><strong> Sujet</strong></td>
+    <td width="350" valign="top" bgcolor="#EDE9FF"> Femme (adulte) <br />
+    Moins de 65 ans <br />
+    En dehors de la grossesse <br />
+    Sans anomalie urologique connue <br />  
+    En l’absence de récidives  (&gt; 4 cystites/an ou dernière cystite &lt;3mois)</td>
+    <td width="351" valign="top" bgcolor="#E1EDFF"> Homme – Enfant – femme enceinte <br />
+    Sujet âgé de plus de 65 ans <br />
+    Présence d’anomalie urologique <br />
+    Cystite aiguë récidivante  (&gt; 4 cystites/an ou dernière cystite &lt;3mois) <br />
+    Sujet diabétique mal équilibré <br />
+    Sujet immunodéprimé <br />
+    Après échec d’un traitement minute</td>
+  </tr>
+  <tr>
+    <td width="145" valign="top" bgcolor="#EEEEF6"><strong> Clinique</strong></td>
+    <td width="350" valign="top" bgcolor="#EDE9FF"> Cystite aiguë non compliquée&nbsp;: brûlure mictionnelle, pollakiurie, 
+      urines troubles ou hématuriques mais absence de fièvre, de frissons, 
+    de douleurs lombaires</td>
+    <td width="351" valign="top" bgcolor="#E1EDFF"> Cystite aiguë compliquée ou pyélonéphrite&nbsp;: hyperthermie, frissons, 
+    douleurs lombaires</td>
+  </tr>
+  <tr>
+    <td width="145" valign="top" bgcolor="#EEEEF6"><strong> Bandelette urinaire</strong></td>
+    <td width="350" valign="top" bgcolor="#EDE9FF"> Leucocytes + <br />
+    Nitrites +</td>
+    <td width="351" valign="top" bgcolor="#E1EDFF"> Absence de leucocyte +/- nitrites</td>
+  </tr>
+  <tr>
+    <td width="145" valign="top" bgcolor="#EEEEF6"><strong> Traitement</strong></td>
+    <td width="350" valign="top" bgcolor="#EDE9FF"> Cure de diurèse + antibiothérapie à dose unique (traitement 
+      minute)&nbsp;: Fosfomycine – Trométamol (Monuril®), Ofloxacine, 
+      Péfloxacine, Ciprofloxacine voir Cotrimoxazole en dose unique ou en 
+    traitement de 3j</td>
+    <td width="351" valign="top" bgcolor="#E1EDFF"> A 
+    adapter en fonction du germe identifié et de l’antibiogramme</td>
+  </tr>
+  <tr>
+    <td width="145" valign="top" bgcolor="#EEEEF6"><strong> Suivi</strong></td>
+    <td width="350" valign="top" bgcolor="#EDE9FF"> Une consultation est indispensable en cas d’échec clinique 
+      (persistance des signes cliniques après le 2-3<sup>ème</sup> jour) 
+    ou de rechute précoce</td>
+    <td width="351" valign="top" bgcolor="#E1EDFF"> Une consultation est indispensable en cas d’échec clinique 
+      (persistance des signes cliniques après le 2-3<sup>ème</sup> jour) 
+    ou de rechute précoce</td>
+  </tr>
+</table>
+<h2><b> II)</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> Prélèvement</b> </h2>
+<p>- 
+    Lavage de mains + lavage soigneux au savon ou antiseptique doux de la vulve 
+    chez la femme et du méat urétral chez l’homme + rinçage <br />
+  - 
+  Eliminer le 1<sup>er</sup> jet d’urine (~20mL) <br />
+  - 
+    Recueillir le 2<sup>ème</sup> jet (~20mL) dans un flacon stérile <br />
+  - 
+  Identification et transport immédiat au laboratoire (éventuellement 
+  conservation quelques heures à 4°C ou utilisation d’un tube boraté contenant 
+  un conservateur). </p>
+<p>L’urine du 1<sup>er</sup> jet peut être recueillie (éventuellement après 
+    massage prostatique) en cas de suspicion d’infection urétrale ou 
+    prostatique. </p>
+<h2><b>III)</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> Examen direct</b></h2>
+<table width="860" border="1" cellpadding="0" cellspacing="0">
+  <tr>
+        <td width="118" valign="top">&nbsp;</td>
+    <td width="244" valign="top" bgcolor="#E5D5FF"><div align="center"><span class="Style103"> Urines 
+      normales</span></div></td>
+    <td width="244" valign="top" bgcolor="#BFD9FF"><div align="center"><span class="Style101"> Infection 
+      urinaire</span></div></td>
+    <td width="244" bgcolor="#D3FFCC"><div align="center"><span class="Style102"> Urines 
+      contaminées</span></div></td>
+  </tr>
+      <tr>
+        <td width="118" valign="top" bgcolor="#EAEAEA"><strong> Leucocytes </strong></td>
+        <td width="244" bgcolor="#EDE9FF"><div align="center">&lt; 10&nbsp;000/mL</div></td>
+        <td width="244" bgcolor="#E1EDFF"> <div align="center">Généralement &gt; 50&nbsp;000/mL</div></td>
+        <td width="244" bgcolor="#E4FFDB"> <div align="center">Variable</div></td>
+  </tr>
+      <tr>
+        <td width="118" valign="top" bgcolor="#EAEAEA"><strong> Hématies</strong></td>
+        <td width="244" bgcolor="#EDE9FF"><div align="center">&lt; 5&nbsp;000/mL</div></td>
+        <td width="244" bgcolor="#E1EDFF"> <div align="center">Généralement &gt; 10&nbsp;000/mL</div></td>
+        <td width="244" bgcolor="#E4FFDB"> <div align="center">Variable</div></td>
+  </tr>
+      <tr>
+        <td width="118" valign="top" bgcolor="#EAEAEA"><strong> Autres éléments</strong></td>
+        <td width="244" bgcolor="#EDE9FF"><div align="center"></div></td>
+        <td width="244" bgcolor="#E1EDFF"> <div align="center">Cellules urothéliales <br />
+        Cellules épithéliales pavimenteuses <br />
+        Cylindres granuleux</div></td>
+        <td width="244" bgcolor="#E4FFDB"> <div align="center">Cellules épithéliales d’origine vaginale</div></td>
+  </tr>
+      <tr>
+        <td width="118" valign="top" bgcolor="#EAEAEA"><strong> Micro-organismes</strong></td>
+        <td width="244" bgcolor="#EDE9FF"> <div align="center">Absence de bactériurie (ou généralement &lt; 10<sup>3 </sup>UFC/mL)</div></td>
+        <td width="244" bgcolor="#E1EDFF"> <div align="center">Généralement &gt; 10<sup>5 </sup>UFC/mL <br />
+        Généralement un seul type de germes</div></td>
+        <td width="244" bgcolor="#E4FFDB"> <div align="center">Généralement &lt;10<sup>4 </sup>UFC/mL <br />
+        Généralement plusieurs types de germes</div></td>
+  </tr>
+</table>
+<h3><b> Cas particulier</b></h3>
+<p> - Présence d’une bactériurie mais absence de leucocytes&nbsp;:<br /> 
+  &nbsp;&nbsp;&nbsp; 
+    - infection urinaire débutante<br /> 
+  &nbsp;&nbsp;&nbsp; 
+- sujet immunodéprimé (chimiothérapie …) </p>
+<p>
+  Présence de leucocytes (&gt; 10<sup>4</sup>/mL) mais absence de bactérie&nbsp;:<br /> 
+  &nbsp;&nbsp; 
+    - sujet ayant pris un traitement antibiotique<br /> 
+  &nbsp;&nbsp; 
+    - présence de germes exigeants&nbsp;: <i>Mycobacterium tuberculosis</i><br /> 
+    &nbsp;&nbsp; 
+- présence de leucocytes génitaux </p>
+<h3><b>Remarque</b></h3>
+<p>  Au 
+    cours des règles, le trigone vésical (tout comme la muqueuse utérine) 
+    desquame. <br />
+  La présence de cellules épithéliales supposées d’origine vaginale 
+  chez une femme en période menstruelle ne doit pas être interprétée 
+systématiquement comme un signe de contamination. </p>
+<h2><b>IV)</b>&nbsp;&nbsp;&nbsp;&nbsp;<b>Ensemencement </b> &nbsp;</h2>
+<p>Une technique d’ensemencement permet une quantification&nbsp;: </p>
+<p><img alt="ensemensement d'une urine" src="../../images/bact/ensemecbu.jpg" width="593" height="426" /></p>
+<p>Une 
+estimation de la numération bactérienne sera établie après 24H à 37°C&nbsp;: </p>
+<p><img alt="numération bactérienne sur ensemencement urinaire" src="../../images/bact/numecbu.png" width="704" height="253" /></p>
+<p>Attention, l’estimation visuelle de la numération bactérienne peut être une 
+    source d’erreur&nbsp;: principalement<br /> 
+  &nbsp;&nbsp;&nbsp; 
+    - surestimation des grosses colonies<br /> 
+  &nbsp;&nbsp;&nbsp; 
+- sous-estimation des petites colonies </p>
+<p>Il 
+    peut être alors nécessaire dans certains cas de compter les colonies&nbsp;: dans 
+    cette technique, la gélose est ensemencée à partir d’une oëse de 10µL donc 1 
+    colonie = 10<sup>2</sup> UFC/mL. <br />
+  D’autres techniques de numération peuvent être utilisées&nbsp;: technique des 
+dilutions, technique de la lame immergée … </p>
+<p>L’aspect de la pousse bactérienne peut mettre en évidence un effet 
+    antibactérien des urines (évoquant la présence d’un antibiotique dans les 
+urines)&nbsp;: effet dit «&nbsp;carry over&nbsp;».</p>
+<p><img alt="effet antibactérien des urines" src="../../images/bact/antibac.jpg" width="296" height="296" /><img alt="effet antibactérien des urines" src="../../images/bact/antibacp.jpg" width="300" height="300" /></p>
+<h2><br clear="all" />
+    <b> V)</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> Epidémiologie</b>        </h2>
+<table width="758" border="1" cellpadding="0" cellspacing="0">
+<tr>
+        <td width="268" valign="top">&nbsp;</td>
+    <td width="251" valign="top" bgcolor="#E5D5FF"><span class="Style103"> Infection urinaire communautaire (%)</span></td>
+    <td width="231" valign="top" bgcolor="#BFD9FF"><span class="Style101"> Infection urinaire nosocomiale (%)</span></td>
+  </tr>
+      <tr>
+        <td width="268" valign="top" bgcolor="#EAEAEA"><i> E. coli</i></td>
+        <td width="251" valign="top" bgcolor="#EDE9FF"> <div align="center">80 (40% résistant à l'amoxicilline)</div></td>
+        <td width="231" valign="top" bgcolor="#E1EDFF"> <div align="center">50 (&gt; 50% résistant à l'amoxicilline)</div></td>
+  </tr>
+      <tr>
+        <td width="268" valign="top" bgcolor="#EAEAEA"><i> Proteus </i> spp., KES …</td>
+        <td width="251" valign="top" bgcolor="#EDE9FF"> <div align="center">10</div></td>
+        <td width="231" valign="top" bgcolor="#E1EDFF"> <div align="center">25</div></td>
+  </tr>
+      <tr>
+        <td width="268" valign="top" bgcolor="#EAEAEA"><i> Staphylococcus </i> spp.</td>
+        <td width="251" valign="top" bgcolor="#EDE9FF"> <div align="center">2-3</div></td>
+        <td width="231" valign="top" bgcolor="#E1EDFF"> <div align="center">4</div></td>
+  </tr>
+      <tr>
+        <td width="268" valign="top" bgcolor="#EAEAEA"><i> Streptococcus </i> spp.</td>
+        <td width="251" valign="top" bgcolor="#EDE9FF"> <div align="center">1</div></td>
+        <td width="231" valign="top" bgcolor="#E1EDFF"> <div align="center">7</div></td>
+  </tr>
+      <tr>
+        <td width="268" valign="top" bgcolor="#EAEAEA"><i> Pseudomonas aeruginosa</i></td>
+        <td width="251" valign="top" bgcolor="#EDE9FF"> <div align="center">-</div></td>
+        <td width="231" valign="top" bgcolor="#E1EDFF"> <div align="center">10-20</div></td>
+  </tr>
+      <tr>
+        <td width="268" valign="top" bgcolor="#EAEAEA"><i> Candida </i> spp.</td>
+        <td width="251" valign="top" bgcolor="#EDE9FF"> <div align="center">-</div></td>
+        <td width="231" valign="top" bgcolor="#E1EDFF"> <div align="center">2</div></td>
+  </tr>
+    </table>
+<p>Source&nbsp;: <a href="http://www.infectiologie.com/site/medias/enseignement/popi2003.pdf"> http://www.infectiologie.com/site/medias/enseignement/popi2003.pdf</a> </p>
+    <h2><b>VI)</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b> Interprétation de l’ECBU</b> &nbsp;</h2>
+    <p><img alt="Interprétation d'un ECBU" src="../../images/bact/interpecbu.jpg" width="692" height="512" /> </p>
+<p>Les 
+    bactéries retrouvées dans les urines sont classées en fonction de leur 
+    capacité à provoquer une infection urinaire&nbsp;: </p>
+    <p><b>Groupe I</b>&nbsp;(uropathogènes reconnus)&nbsp;: </p>
+    <p><i>Escherichia coli</i>, <i>Staphylococcus saprophyticus</i><i> </i>(surtout chez la femme 
+    jeune), <i>Salmonella </i> spp. (rare) et Mycobactérie (rare) </p>
+    <p><b>Groupe II</b>&nbsp;(bactéries moins fréquemment responsables d’infection urinaire)&nbsp;: </p>
+    <p>souvent 
+    infection nosocomiale avec présence de facteurs favorisants&nbsp;: autres 
+    entérobactéries (<i>Klebsiella </i> spp., <i>Proteus </i>spp., <i>Enterobacter </i> spp., <i>Morganella </i>spp.), <i> Enterococcus </i>spp, <i>Pseudomonas 
+    aeruginosa</i>, <i>Staphylococcus aureus</i>, <i>Corynebacterium urealyticum</i>, <i>Haemophilus </i>spp. (rare), <i> Streptococcus </i>spp. (rare) </p>
+    <p><b>Groupe III</b>&nbsp;(bactéries qu’il faut considérer comme pathogènes si elles sont isolées à 
+plusieurs reprises avec des bactériuries &ge; 10<sup>5</sup> UFC/mL)&nbsp;:</p>
+    <p> <i>Streptococcus agalactiae</i>, <i>Candida </i>spp. (surtout <i> C. albicans </i>et <i> C. glabrata</i>), Staphylocoques coagulase négative (sauf <i>S. saprophyticus</i>), <i> Acinetobacter baumannii</i>, <i>Stenotrophomonas maltophilia</i>, <i> Burkholderia cepacia</i>, <i>Olligella urethralis</i>, <i>Aerococcus urinae</i> </p>
+    <p><b>Groupe IV</b>&nbsp;(bactéries de la flore uréthrale ou génitale de proximité)&nbsp;: </p>
+    <p>Streptocoques alpha hémolytiques, <i>Gardnerella 
+      vaginalis</i>, <i>Lactobacillus </i>spp., bacilles corynéformes (sauf <i>Corynebacterium urealyticum</i>) </p>
+    <p>&nbsp;</p>
+<table width="654" border="1" cellpadding="0" cellspacing="0">
+<tr>
+        <td width="116" bgcolor="#CEE9F0"><div align="center" class="Style104"> Leucocyturie</div></td>
+    <td width="120" bgcolor="#CEE9F0"><div align="center" class="Style104"> Bactériurie</div></td>
+    <td width="86" bgcolor="#CEE9F0"><div align="center" class="Style104"> Type de colonies</div></td>
+    <td width="158" bgcolor="#CEE9F0"><div align="center" class="Style104"> Interprétation</div></td>
+    <td width="175" bgcolor="#CEE9F0"><div align="center" class="Style104"> Conduite à tenir</div></td>
+  </tr>
+      <tr>
+        <td width="116" bgcolor="#ECFBFF"> Non</td>
+        <td width="120" bgcolor="#ECFBFF"> Non</td>
+        <td width="86" bgcolor="#ECFBFF"> 0</td>
+        <td width="158" valign="top" bgcolor="#ECFBFF"> ECBU stérile</td>
+        <td width="175" valign="top" bgcolor="#ECFBFF"> Aucune </td>
+  </tr>
+      <tr>
+        <td width="116" bgcolor="#F1F7FA"> Oui</td>
+        <td width="120" bgcolor="#F1F7FA"> Non</td>
+        <td width="86" bgcolor="#F1F7FA"> 0</td>
+        <td width="158" valign="top" bgcolor="#F1F7FA"> Traitement antibiotique&nbsp; Bactérie exigeante (BK) Leucocytes génitaux</td>
+        <td width="175" valign="top" bgcolor="#F1F7FA"> A refaire en adaptant les techniques</td>
+  </tr>
+      <tr>
+        <td width="116" bgcolor="#F1F7FA"> Non</td>
+        <td width="120" bgcolor="#F1F7FA"> Oui</td>
+        <td width="86" bgcolor="#F1F7FA"> 1 sorte</td>
+        <td width="158" valign="top" bgcolor="#F1F7FA"> Infection débutante Infection aplasique Contamination </td>
+        <td width="175" valign="top" bgcolor="#F1F7FA"> Identification + antibiogramme ou à contrôler</td>
+  </tr>
+      <tr>
+        <td width="116" bgcolor="#F1F7FA"> Oui</td>
+        <td width="120" bgcolor="#F1F7FA"> Oui</td>
+        <td width="86" bgcolor="#F1F7FA"> 1 sorte</td>
+        <td width="158" valign="top" bgcolor="#F1F7FA"> Infection typique</td>
+        <td width="175" valign="top" bgcolor="#F1F7FA"> Identification et antibiogramme</td>
+  </tr>
+      <tr>
+        <td width="116" bgcolor="#F1F7FA"> Non</td>
+        <td width="120" bgcolor="#F1F7FA"> Non</td>
+        <td width="86" bgcolor="#F1F7FA">&gt; 1 sorte</td>
+        <td width="158" valign="top" bgcolor="#F1F7FA"> Souillure</td>
+        <td width="175" valign="top" bgcolor="#F1F7FA"> Aucune</td>
+  </tr>
+      <tr>
+        <td width="116" bgcolor="#F1F7FA"> Oui</td>
+        <td width="120" bgcolor="#F1F7FA"> Non</td>
+        <td width="86" bgcolor="#F1F7FA"> &ge; 2 sortes</td>
+        <td width="158" valign="top" bgcolor="#F1F7FA"> Infection sur sonde&nbsp;?</td>
+        <td width="175" valign="top" bgcolor="#F1F7FA"> A contrôler</td>
+  </tr>
+      <tr>
+        <td width="116" bgcolor="#F1F7FA"> Non</td>
+        <td width="120" bgcolor="#F1F7FA"> Oui</td>
+        <td width="86" bgcolor="#F1F7FA"> &ge; 2 sortes</td>
+        <td width="158" valign="top" bgcolor="#F1F7FA"> Souillure</td>
+        <td width="175" valign="top" bgcolor="#F1F7FA"> Aucune</td>
+  </tr>
+      <tr>
+        <td width="116" bgcolor="#F1F7FA"> Oui</td>
+        <td width="120" bgcolor="#F1F7FA"> Oui</td>
+        <td width="86" bgcolor="#F1F7FA"> &ge; 2 sortes</td>
+        <td width="158" valign="top" bgcolor="#F1F7FA"> Infection polymicrobienne&nbsp;?</td>
+        <td width="175" valign="top" bgcolor="#F1F7FA"> A refaire</td>
+  </tr>
+    </table>
+<h2><b>VII)</b>&nbsp;&nbsp; <b> Bandelette urinaire (BU)</b></h2>
+    <p>Assurer une rétention urinaire de 4 à 8H (sinon risque de faux négatif pour 
+les nitrites si bactériurie trop faible).<br />
+L’antibiothérapie doit être suspendue 3j avant le test </p>
+<h3><b>A)</b>&nbsp;&nbsp;&nbsp; <b> Hématurie&nbsp;</b></h3>
+<p> Positif à partir de 3 hématies/mL <br />
+Faux positif&nbsp;: hémoglobinurie, myoglobinurie, eau de javel </p>
+<h3><b>B)</b>&nbsp;&nbsp;&nbsp; <b> Leucocyturie</b> </h3>
+    <p>Positif à partir de 10-25 leucocytes/mL <br />
+      Faux négatif&nbsp;: très forte concentration de glucose, certains antibiotiques&nbsp;: 
+Céfalotine, Céfalexine, Tétracycline … Faux positif&nbsp;: certains antibiotiques&nbsp;: Carbapénèmes, Acide clavulanique … </p>
+<h3><b>C)</b>&nbsp;&nbsp;&nbsp; <b> Bactériurie</b></h3>
+    <p> Réaction spécifique des nitrites&nbsp;: met indirectement en évidence la présence 
+      de germe possédant une nitrate réductase. <br />
+      On peut observer des faux négatifs 
+      en cas d’absence de nitrate dans les urines. <br />
+      La 
+bandelette urinaire présente un bon pouvoir prédictif négatif.</p>
+    <h2><strong>VIII) Bibliographie</strong> </h2>
+<p>Milieux de culture&nbsp;: <a href="http://www2.ac-lyon.fr/enseigne/biotech/microbio/milieux.html"> http://www2.ac-lyon.fr/enseigne/biotech/microbio/milieux.html</a> </p>
+    <p>Bandelette urinaire&nbsp;: <a href="http://www.nephrohus.org/s/spip.php?article187"> http://www.nephrohus.org/s/spip.php?article187</a><b> &nbsp;</b>
+                                            </p>
+</body>
+</html>
